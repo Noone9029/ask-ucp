@@ -114,28 +114,6 @@ Firebase Backend
 
 [![Download APK](https://img.shields.io/badge/Download-AskUCP%20APK-blue?style=for-the-badge\&logo=android)](https://github.com/Noone9029/ask-ucp/releases/tag/v1.0.0)
 
-### Frontend
-
-* **Flutter**
-  The core framework used to build the mobile application. Flutter allows development of high-performance native apps from a single codebase.
-
-* **Dart**
-  The primary programming language used for building the application logic and UI.
-
-### Backend / Services
-
-* **Firebase Integration**
-
-  * Cloud services used for backend infrastructure
-  * Potential services include authentication, data storage, and cloud functions
-
-* **Firebase Cloud Functions**
-  Server-side logic implemented using cloud functions for handling backend operations.
-
-### Mobile Platform Support
-
-* **Android** (primary supported platform)
-
 ---
 
 ## 🗂 Project Structure
