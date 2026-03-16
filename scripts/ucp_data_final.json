@@ -1,0 +1,1192 @@
+[
+  {
+    "id": "UCP_001",
+    "text": "The University of Central Punjab's vision is to become an internationally acclaimed university in teaching and research. Its mission is to provide quality education leading to research, employability and entrepreneurial pursuits, creating societal impact, serving the nation and the world.",
+    "source": "about-ucp"
+  },
+  {
+    "id": "UCP_002",
+    "text": "UCP's core values emphasize integrity, respect, tolerance, commitment, service and creativity; the university highlights honesty, ethical responsibility, dignity, acceptance of different views, passion to work hard, helping the community, and encouraging innovation.",
+    "source": "about-ucp"
+  },
+  {
+    "id": "UCP_003",
+    "text": "In his message, Chairman Mian Amer Mahmood describes UCP as a nationally recognized university for academic and extracurricular achievements. He notes the diverse student body from across Pakistan and emphasises UCP's role in developing young minds through academics, social and athletic activities. He encourages students to take advantage of world-class resources and faculty and explains that UCP promotes multidisciplinary research and encourages students to become job creators.",
+    "source": "about-ucp"
+  },
+  {
+    "id": "UCP_004",
+    "text": "Pro\u2011Rector Dr. Hammad Naveed welcomes students and parents, describing UCP as a transformational journey that equips students with skills to thrive in an ever\u2011changing world. He emphasises outstanding teaching, scholarships, flexible programs and extracurricular opportunities. He recounts that Punjab Group of Colleges petitioned the Government of Punjab in 1996, obtained a No Objection Certificate in 1999, and that UCP's charter was granted in April 2002, making it the first private sector university in Punjab to become a degree-awarding institution. The pro\u2011rector highlights UCP\u2019s research\u2011driven culture, high\u2011tech facilities, solar\u2011powered campus and numerous societies promoting education, socialization, entrepreneurship and the arts.",
+    "source": "about-ucp"
+  },
+  {
+    "id": "UCP_005",
+    "text": "UCP invites applications twice a year (Fall and Spring). Applicants should research programmes on the university website, complete the online application form, pay the processing fee online or at the Admissions Office, submit the form through the online portal, and then receive a reference number along with test and interview dates. Merit lists are published on the official website and communicated to candidates by email and SMS. Successful candidates must deposit dues by the deadline to receive registration numbers and course details, and all students attend an orientation session.",
+    "source": "how-to-apply"
+  },
+  {
+    "id": "UCP_006",
+    "text": "The Student Services Center (SSC) provides a one-stop service hub for student queries. It aims to offer quality academic and non\u2011academic services under one roof through a trained team using modern IT tools. The SSC acts as the main point of contact for students during their stay at UCP, providing a friendly and supportive environment, bridging students and administration, and offering support services to help students enjoy campus life.",
+    "source": "departments"
+  },
+  {
+    "id": "UCP_007",
+    "text": "The Quality Enhancement Cell (QEC) at UCP focuses on planning, guiding and monitoring quality assurance and enhancement. Established in line with the Higher Education Commission (HEC) quality assurance framework, the QEC works to maintain and enhance the quality of education and research at the University of Central Punjab.",
+    "source": "departments"
+  },
+  {
+    "id": "UCP_008",
+    "text": "The Career Services Office (CSO) prepares students for life after university by helping them explore employment and further education opportunities. It has three key verticals \u2014 placements, continuing education and alumni relations \u2014 and promotes mentorship and networking among students and alumni. The CSO seeks to enhance the UCP experience beyond campus by developing a strong alumni network to increase capacity and knowledge sharing.",
+    "source": "departments"
+  },
+  {
+    "id": "UCP_009",
+    "text": "The Office of Research, Innovation and Commercialization (ORIC) at UCP is established according to HEC requirements to develop and enhance research-based innovation and commercialization activities. ORIC ensures that research programs comply with directives from recognizing authorities. It operates a Directorate of Research to strengthen research efforts, an Industrial Linkages section to build partnerships between the university and the corporate sector for applied research and technology transfer, and Takhleeq \u2014 a business incubator that nurtures entrepreneurs through events, lectures and counseling.",
+    "source": "departments"
+  },
+  {
+    "id": "UCP_010",
+    "text": "In his message, the Dean of the Faculty of Information Technology and Computer Science (FoIT & CS) states that the faculty offers a wide range of degree programs in computing and provides high-end technology resources. The faculty aims to train students to cope with the ever-evolving discipline of computing and to become technology entrepreneurs and leaders. The faculty houses departments of Computer Science and Software Engineering and offers bachelor\u2019s, master\u2019s and PhD programs in computer science, software engineering and data science.",
+    "source": "foit"
+  },
+  {
+    "id": "UCP_011",
+    "text": "Established in 2002, the Faculty of Information Technology and Computer Science has world-class faculty and research centres such as the R&D Centre, Game Centre, Medical Informatics Centre, Learning Design Centre and Robotics Centre. Its curriculum is aligned with high-tech industry trends and offers balanced theoretical and practical courses. The faculty\u2019s research centres conduct work in areas like machine learning, data analytics, healthcare, robotics, embedded systems, mathematics, information retrieval and the Internet of Things. Facilities include teaching, research and general laboratories with more than 1,700 computers, campus-wide connectivity and a dedicated hardware lab. The faculty\u2019s infrastructure supports students seeking careers as data scientists, analysts, technicians, cybersecurity specialists and software developers.",
+    "source": "foit"
+  },
+  {
+    "id": "UCP_012",
+    "text": "The Centre for Learning and Design at UCP aims to make education effective, accessible and affordable. Initiatives include learning management systems (LMS) for the Faculty of IT and UCP Business School, a hypermedia learning system for English, a zero-semester program for computing and mathematics, and a classroom response system for automatic quizzes.",
+    "source": "foit"
+  },
+  {
+    "id": "UCP_013",
+    "text": "The Centre for Game Design supports students who wish to specialise in game design, particularly for educational technology. It helps diversify Pakistan\u2019s IT industry by building linkages between the game industry, computer scientists and instructional designers.",
+    "source": "foit"
+  },
+  {
+    "id": "UCP_014",
+    "text": "The Centre for Mathematics Teaching and Research addresses poor learning achievements in mathematics by creating a platform to improve mathematics education and research.",
+    "source": "foit"
+  },
+  {
+    "id": "UCP_015",
+    "text": "The Centre for Robotics gives students hands\u2011on experience by allowing them to work with land\u2011based and aerial robots, building machines that incorporate artificial intelligence. The centre teaches design, modelling and control methods to prepare students for industry.",
+    "source": "foit"
+  },
+  {
+    "id": "UCP_016",
+    "text": "The Centre for Healthcare Modeling and Informatics conducts state\u2011of\u2011the\u2011art research in health informatics, bioinformatics, biostatistics, machine learning, computer vision and software engineering to develop intelligent solutions that support evidence\u2011based healthcare.",
+    "source": "foit"
+  },
+  {
+    "id": "UCP_017",
+    "text": "UCP\u2019s facilities for media and communication studies include a state\u2011of\u2011the\u2011art production house equipped with modern media production facilities, providing students with experience in television and cinema production. The university operates FM 92.6 \u2018UCP Ki Dunya,\u2019 a 24/7 radio station offering infotainment, educational programs, talk shows and debates to train future radio professionals. UCP\u2019s non\u2011linear editing labs house 40 specialized computers installed with the latest applications to support video editing and 2D animation projects for media students.",
+    "source": "facilities"
+  },
+  {
+    "id": "UCP_018",
+    "text": "The Environmental Protection Society at UCP trains students to protect the environment by promoting resource efficiency, energy conservation and waste minimization. It mobilizes resources to develop an environmentally friendly, energy\u2011efficient and waste\u2011minimising society.",
+    "source": "societies"
+  },
+  {
+    "id": "UCP_019",
+    "text": "UCP offers multiple types of scholarships including merit\u2011based, financial aid, need\u2011based and extracurricular scholarships. The scholarship policy effective from Fall 2025 applies to new admissions.",
+    "source": "scholarships"
+  },
+  {
+    "id": "UCP_020",
+    "text": "The fee structure for 2025\u201126 lists per\u2011credit\u2011hour fees and admission fees for various programs. For example, the Bachelor of Business Administration (BBA) program in the Faculty of Management Sciences has a per\u2011credit\u2011hour fee of 13,810 Pakistani rupees and an admission fee of 25,000 rupees. Scholarship options reduce the first\u2011semester installment; with a 25% scholarship the first installment is 128,575 rupees and with a 50% scholarship it is 97,503 rupees.",
+    "source": "fee-structure"
+  },
+  {
+    "id": "UCP_021",
+    "text": "The University of Central Punjab is a private university in Lahore, Punjab, Pakistan. It was established in 2002 and its motto is \u2018The centre of your future\u2019. The university has over 602 academic staff and more than 16,000 students, including around 14,400 undergraduates and 1,600 postgraduates. The main campus is located at 1 Khayaban\u2011e\u2011Jinnah Road, Johar Town, Lahore.",
+    "source": "wikipedia"
+  },
+  {
+    "id": "UCP_022",
+    "text": "UCP was petitioned for establishment in 1996 by the Punjab Group of Colleges, received a No Objection Certificate in 1999 and was chartered by the Government of Punjab in 2002. The campus, built in 2010, covers 500,000 square feet with five blocks and includes facilities such as an auditorium with 300 seats.",
+    "source": "wikipedia"
+  },
+  {
+    "id": "UCP_023",
+    "text": "UCP comprises faculties including Engineering, Humanities and Social Sciences, Pharmaceutical Sciences, Law, Media and Communication Studies, Life Sciences, Information Technology and Computer Science, Language & Literature, Science & Technology and Management Sciences.",
+    "source": "wikipedia"
+  },
+  {
+    "id": "UCP_024",
+    "text": "UCP\u2019s engineering programs are accredited by the Pakistan Engineering Council under Level II (Washington Accord). The Pharm\u2011D program is accredited by the Pharmacy Council of Pakistan, and the Computer Science program is accredited by the National Computing Education Accreditation Council (NCEAC).",
+    "source": "wikipedia"
+  },
+  {
+    "id": "UCP_025",
+    "text": "In the QS Asian University Rankings \u2013 Southern Asia 2025, the University of Central Punjab was ranked equal 94th. It was placed within the 801\u20131000 band in the Times Higher Education (THE) World University Rankings 2025 and equal 362nd in QS Asia 2025. UCP was also ranked 1201+ in the QS Sustainability Ranking 2025.",
+    "source": "wikipedia"
+  },
+  {
+    "id": "UCP_026",
+    "text": "The Faculty of Management Sciences (FOMS) aims to provide education aligned with market requirements through case studies, projects, internships and ties with the corporate sector. Its dean states that FOMS strives to meet international standards by restructuring BBA and MBA programs, offering PhD and generalized MS programs, and providing experiential learning opportunities that develop proactive business leaders with a strong knowledge base and entrepreneurial mindset\u3010269569453132670\u2020L98-L119\u3011.",
+    "source": "foms"
+  },
+  {
+    "id": "UCP_027",
+    "text": "FOMS traces its roots to the Punjab College of Business Administration (established 1991) and now has 23 PhD faculty members, state\u2011of\u2011the\u2011art facilities and international links with British and American universities. Its vision is to be a thought leader in business education at the intersection of globalisation and localisation, while the mission nurtures individuals, promotes transformational learning and contributes to society through morality, fairness, social responsibility and professionalism\u3010269569453132670\u2020L146-L163\u3011.",
+    "source": "foms"
+  },
+  {
+    "id": "UCP_028",
+    "text": "In her message, the dean of the Faculty of Law highlights a three\u2011decade legacy rooted in Punjab Law College and notes that the faculty aims to produce \u201ctrue human beings\u201d motivated by qualities of head and heart. The program blends regular law teaching with co\u2011curricular activities and practical exposure; students are encouraged to go beyond course books and develop professionalism, acute observation and social awareness\u3010499244537545578\u2020L96-L112\u3011.",
+    "source": "fol"
+  },
+  {
+    "id": "UCP_029",
+    "text": "The Faculty of Law emphasises experiential learning: students must complete pro\u2011bono service hours as part of their degree. The law clinic provides pro bono legal services to underprivileged communities and real\u2011life training for students, with facilities including a clinic office, secretary office and conference room\u3010499244537545578\u2020L140-L166\u3011. The faculty also houses a Peace and Mediation Centre that promotes peace studies and mediation through academic courses and practical research\u3010499244537545578\u2020L172-L189\u3011.",
+    "source": "fol"
+  },
+  {
+    "id": "UCP_030",
+    "text": "The faculty\u2019s overview notes that it evolved from Punjab Law College (established 1987) and became part of UCP in 2016. It focuses on developing three attributes in law students: critical observation and problem\u2011solving skills; ethical credence to resolve dilemmas; and social empathy. Education at FOL applies \u201claw in the book\u201d as \u201claw in action\u201d and offers varied opportunities to help students become productive members of society\u3010499244537545578\u2020L134-L145\u3011.",
+    "source": "fol"
+  },
+  {
+    "id": "UCP_031",
+    "text": "The Faculty of Languages and Literature (FLL), formed after UCP\u2019s 2022 act split the former Faculty of Arts and Social Sciences, houses departments of English Literature and Linguistics along with English, Chinese and Japanese language centres. The faculty continues to offer BS English Language and Literature and MS English Literature programmes and adds MS Applied Linguistics and PhD Linguistics; language centres provide courses and support across the university\u3010688218767409298\u2020L97-L114\u3011.",
+    "source": "fll"
+  },
+  {
+    "id": "UCP_032",
+    "text": "FLL\u2019s mission is to provide an interactive and robust learning environment with highly qualified faculty (eight PhDs) and a contemporary curriculum that encourages critical inquiry and independent thinking. Students gain well\u2011developed communication and analytical skills and can pursue careers in publishing, advertising, public relations, research, technical writing and education\u3010688218767409298\u2020L116-L129\u3011.",
+    "source": "fll"
+  },
+  {
+    "id": "UCP_033",
+    "text": "The BS English Language and Literature is a four\u2011year programme combining literature and linguistics courses to prepare graduates for careers in media, business, diplomacy and further studies. The MS English Literature is a two\u2011year programme covering core literature and theory; applicants need at least 2.0/4.0 CGPA in a BS English degree or 50\u00a0% marks in MA English and must pass the UCP admission test and interview\u3010688218767409298\u2020L155-L170\u3011.",
+    "source": "fll"
+  },
+  {
+    "id": "UCP_034",
+    "text": "The Department of Linguistics offers MS Applied Linguistics (two\u2011year) and PhD Linguistics programmes focusing on language teaching and theoretical/applied linguistics. Applicants for the MS programme require at least 2.0/4.0 CGPA in BS English or 50\u00a0% marks in a relevant master\u2019s degree, while PhD applicants need a 3.0/4.0 CGPA in MS/M.Phil Linguistics or ELT and must pass the UCP admission test and interview\u3010688218767409298\u2020L173-L200\u3011.",
+    "source": "fll"
+  },
+  {
+    "id": "UCP_035",
+    "text": "UCP\u2019s English Language Centre (ELC) integrates teaching and research, viewing high proficiency in English as critical for student success across disciplines. Courses have been revamped to meet global standards and are taught in audiovisual\u2011equipped classrooms where students practise all four language skills. ELC encourages teachers to conduct classroom action research to diagnose students\u2019 needs and adapt materials accordingly\u3010688218767409298\u2020L205-L218\u3011.",
+    "source": "fll"
+  },
+  {
+    "id": "UCP_036",
+    "text": "The Faculty of Humanities and Social Sciences (FOHSS) offers a scholastically rich and culturally diverse environment with disciplines including Political Science, International Relations, Economics, Psychology and Physical Education & Sports Sciences. Its dean emphasises a unique pedagogy that blends traditional and innovative methods to develop critical thinking and encourages students to engage with scholars and professionals through societies such as the Voltaire Society, Young Economists\u2019 Society and Psychology Society; the faculty aims to groom future civil servants, journalists, analysts, researchers, economists and psychologists\u301012649750759835\u2020L99-L115\u3011.",
+    "source": "fohss"
+  },
+  {
+    "id": "UCP_037",
+    "text": "FOHSS is a dynamic academic entity with 14 PhD faculty members and a strong research focus. The faculty comprises departments of Psychology, Political Science & International Relations and Economics, covering undergraduate to postgraduate levels. Its programmes embed employability themes and encourage knowledge transfer and consultancy with public and private enterprises\u301012649750759835\u2020L123-L137\u3011.",
+    "source": "fohss"
+  },
+  {
+    "id": "UCP_038",
+    "text": "The Department of Psychology recognises the growing role of psychology in business, management and social sciences. It was established to cater to students pursuing careers in academia or industry, and plans to launch training programmes for professionals in business and management. The department also offers introductory courses to students from other faculties and aims to standardise its teaching input\u301012649750759835\u2020L142-L156\u3011.",
+    "source": "fohss"
+  },
+  {
+    "id": "UCP_039",
+    "text": "The Department of Political Science & International Relations offers BS programmes in International Relations and Political Science. It seeks to attract bright scholars with highly qualified faculty and provides a stimulating academic environment. Its goal is to produce graduates with deep understanding of institutions, practices and relations that constitute public life and to develop modes of inquiry that promote citizenship and success in a global world\u301012649750759835\u2020L160-L173\u3011.",
+    "source": "fohss"
+  },
+  {
+    "id": "UCP_040",
+    "text": "The Department of Economics emphasises the critical role of economists in socio\u2011economic growth and aims to train students with cutting\u2011edge knowledge. Initially supporting BBA and MBA programmes, it launched the BS Economics and Finance programme in 2011 and later added specialisations in Finance and Data Analytics. The MS programme began in 2013; graduates work in public and private sectors and have research evaluated by experts\u301012649750759835\u2020L177-L203\u3011.",
+    "source": "fohss"
+  },
+  {
+    "id": "UCP_041",
+    "text": "The dean of the Faculty of Pharmaceutical Sciences notes that UCP, recognised by the Pharmacy Council of Pakistan and HEC since 2011, provides high\u2011standard professional education in a conducive environment. The faculty hosts world\u2011class educators and researchers exploring new frontiers in drug discovery and translational clinical research, producing more than 30 manuscripts over three years. The message emphasises innovation, learning, research, professionalism and diversity\u3010309071364365166\u2020L95-L116\u3011.",
+    "source": "fops"
+  },
+  {
+    "id": "UCP_042",
+    "text": "Faculty of Pharmaceutical Sciences (FOP), established in 2011, prepares students to serve in various pharmacy sectors including industry, hospitals, community pharmacies, forensic science and regulatory bodies like DRAP. All programmes are accredited by PCP and HEC, and FOP has 10 PhD faculty members. Its learner\u2011centred approach emphasises critical thinking, professionalism, life\u2011long learning, community service and leadership\u3010309071364365166\u2020L126-L140\u3011.",
+    "source": "fops"
+  },
+  {
+    "id": "UCP_043",
+    "text": "Salient features of the Faculty of Pharmaceutical Sciences include accreditation with the Pakistan Pharmacy Council and HEC; membership in the International Pharmaceutical Federation\u2019s Academic Institution program (FIP\u2011AIM); internationally trained faculty; advanced teaching, learning and assessment methodologies; well\u2011equipped laboratories; advanced research facilities for all levels; national and international research collaborations; a friendly multicultural environment; and strong partnerships with the pharmaceutical industry and hospitals\u3010309071364365166\u2020L142-L156\u3011.",
+    "source": "fops"
+  },
+  {
+    "id": "UCP_044",
+    "text": "The dean of the Faculty of Information Technology and Computer Science emphasises that the faculty offers a wide range of degree programs supported by high\u2011end computers and state\u2011of\u2011the\u2011art technology. Faculty and staff aim to produce technology entrepreneurs and highly skilled leaders capable of adapting to ever\u2011evolving computing disciplines. The faculty has two departments\u2014Computer Science and Software Engineering\u2014and offers bachelor\u2019s, master\u2019s and PhD programmes in Computer Science, Software Engineering and Data Science\u3010922280929294397\u2020L92-L106\u3011.",
+    "source": "foit"
+  },
+  {
+    "id": "UCP_045",
+    "text": "The department traces its history to the Punjab Institute of Computer Science established in 1993; its programmes improved higher education quality in partnership with other institutions and produced graduates who became technology entrepreneurs and held top positions in IT companies. New programmes in Software Engineering and Data Science provide students with more choices in the information technology field\u3010922280929294397\u2020L108-L116\u3011.",
+    "source": "foit"
+  },
+  {
+    "id": "UCP_046",
+    "text": "Established in 2002, the Faculty of Information Technology and Computer Science has 13 PhD faculty members and aims to make Pakistan a leader in computer science and software development. Its Research and Development Centre, Game Centre, Centre for Medical Informatics, Centre for Learning & Design and Robotics Centre complement a curriculum aligned with high\u2011tech industry trends, offering balanced theoretical and practical courses and preparing students for careers as data scientists, analysts, cybersecurity specialists and developers\u3010922280929294397\u2020L135-L152\u3011.",
+    "source": "foit"
+  },
+  {
+    "id": "UCP_047",
+    "text": "FOIT has launched six research centres that conduct cutting\u2011edge research in machine learning, data analytics, healthcare, robotics, embedded systems, mathematics, information retrieval and IoT. The Centre for Learning & Design develops educational tools such as learning management systems and hypermedia systems; the Centre for Game Design supports game development and EdTech; the Council for Mathematics Teaching & Research addresses challenges in mathematics education; the Centre for Robotics offers hands\u2011on robotics experience and collaborations with German labs; and the Centre for Healthcare Modeling & Informatics applies informatics, machine learning and computer vision to public health\u3010922280929294397\u2020L154-L217\u3011.",
+    "source": "foit"
+  },
+  {
+    "id": "UCP_048",
+    "text": "To support students, FOIT maintains eight teaching laboratories, four research labs and three general labs equipped with over 1,700 computers. The faculty operates its own ISP, virtual labs and campus\u2011wide network connectivity managed by qualified technical staff to provide students with state\u2011of\u2011the\u2011art computing resources\u3010922280929294397\u2020L219-L229\u3011.",
+    "source": "foit"
+  },
+  {
+    "id": "UCP_049",
+    "text": "The Faculty of Engineering (FOE) includes three departments\u2014Civil, Electrical and Mechanical\u2014and aims to produce efficient engineers with strong problem\u2011solving skills, technical expertise and ethical values. The dean\u2019s message highlights the faculty\u2019s focus on outcome\u2011based education, updated laboratories, modern workshops and resources, and research\u2011led teaching that fosters curiosity, leadership and teamwork\u3010440407358497083\u2020L95-L120\u3011.",
+    "source": "foe"
+  },
+  {
+    "id": "UCP_050",
+    "text": "Established in 2002, the Faculty of Engineering combines world\u2011class faculty (over 20 PhDs and 50 master\u2019s degree holders) with a research\u2011focused curriculum. The faculty pursues international accreditation (Washington Accord) and encourages students to innovate, lead and serve society through curiosity and long\u2011term professional growth\u3010440407358497083\u2020L124-L142\u3011.",
+    "source": "foe"
+  },
+  {
+    "id": "UCP_051",
+    "text": "The B.Sc. Electrical Engineering programme aims to develop graduates who can solve complex industrial problems and lead responsibly. Started in fall\u00a02003, all graduating batches are accredited by the Pakistan Engineering Council; since the fall\u00a02021 and fall\u00a02022 cohorts the programme has achieved Level\u2011II OBE accreditation, making its graduates eligible for recognition by Washington Accord signatories. The department operates 13 laboratories and established a Space Research Centre in 2020 to promote space technology education\u3010412273342416922\u2020L93-L115\u3011.",
+    "source": "foe"
+  },
+  {
+    "id": "UCP_052",
+    "text": "The BBA programme provides a broad understanding of business processes with majors in management, finance, marketing, information and operations management, and entrepreneurship. It emphasises communication skills and exposure to social sciences and equips students with planning, organizing, team\u2011building and problem\u2011solving skills; knowledge of social, economic and political realities; a holistic management perspective; policy formulation abilities; ethical awareness; interpersonal skills; and quantitative and qualitative tools for entrepreneurship\u3010757334598642699\u2020L70-L112\u3011. The 132\u2011credit\u2011hour curriculum includes core, compulsory, general and elective courses along with a project or community service component\u3010757334598642699\u2020L117-L139\u3011.",
+    "source": "bba"
+  },
+  {
+    "id": "UCP_053",
+    "text": "The Faculty of Media and Mass Communication (FMMC) aims to meet international standards by providing in\u2011depth knowledge, industry\u2011based skills, critical thinking and creativity in media and communication. Established in 2014 with over 1,000 students, FMMC offers BS, MSc, MPhil and PhD programmes covering journalism, film, advertising, digital media and research. Facilities include a TV studio, production house, non\u2011linear editing lab and FM\u00a092.6 radio station, and the faculty maintains partnerships and internships with media organisations\u3010183933715127548\u2020L96-L137\u3011\u3010183933715127548\u2020L145-L233\u3011.",
+    "source": "fmmc"
+  },
+  {
+    "id": "UCP_054",
+    "text": "The Faculty of Science & Technology (FOST) introduces students to natural sciences across seven departments: Basic & Applied Chemistry, Microbiology, Food Science & Technology, Mathematics, Physics, Zoology/Botany and Biotechnology. The dean\u2019s message emphasises practical and theory\u2011based learning with modern laboratories, encourages creativity and collaboration, and promotes foreign linkages that enhance research and student visits\u3010100684965642621\u2020L98-L126\u3011. The overview notes that FOST has more than 54 PhD scholars and has produced over 200 research publications annually since 2016; it fosters interdisciplinary research and addresses modern challenges in physical, biological and food sciences\u3010100684965642621\u2020L132-L155\u3011.",
+    "source": "fost"
+  },
+  {
+    "id": "UCP_055",
+    "text": "UCP\u2019s media hub includes a production house equipped with new\u2011generation media production facilities, giving students hands\u2011on experience in television and cinema; the university also operates a radio station (FM\u00a092.6) that provides 24\u2011hour infotainment and trains students as radio jockeys, producers and broadcasters; non\u2011linear editing labs with 40 specialised computers support video projects and 2D animation, making them some of the most advanced facilities in Pakistan\u3010344325698880630\u2020L79-L104\u3011.",
+    "source": "facilities"
+  },
+  {
+    "id": "UCP_056",
+    "text": "The campus sports complex promotes physical wellbeing with separate gyms for male and female members, a 25\u2011yard all\u2011weather swimming pool (four lanes, depth 3\u20136\u00a0feet), and recreational facilities like table tennis and foosball\u3010344325698880630\u2020L160-L165\u3011. The cafeteria and food street offer two air\u2011conditioned cafeterias, diverse snacks and meal options, a food street with traditional snacks and barbecue, and a subsidised executive lounge for faculty and staff, maintaining high hygiene standards\u3010344325698880630\u2020L200-L210\u3011.",
+    "source": "facilities"
+  },
+  {
+    "id": "UCP_057",
+    "text": "The UCP library holds approximately 40,000 textbooks and 2,350 reference books (dictionaries, encyclopedias, directories, Islamic collections etc.) and provides access to research databases like IEEE, JSTOR, McGraw\u2011Hill, Project\u00a0MUSE, Taylor\u00a0&\u00a0Francis and Wiley\u2011Blackwell. The library is open during university working hours and offers comfortable spaces for individual and group study\u3010344325698880630\u2020L293-L303\u3011.",
+    "source": "facilities"
+  },
+  {
+    "id": "UCP_058",
+    "text": "The university maintains state\u2011of\u2011the\u2011art laboratories for engineering, IT, pharmacy and science to support hands\u2011on learning and experimentation. It also offers a girls\u2019 hostel and on\u2011campus transportation services (shuttle) to facilitate students\u2019 living and commuting needs\u3010344325698880630\u2020L365-L370\u3011.",
+    "source": "facilities"
+  },
+  {
+    "id": "UCP_059",
+    "text": "UCP\u2019s scholarship policy for Fall 2025 introduces fifteen categories of scholarships, including scholarships for Punjab Group of Colleges students, alumni, merit, need, specially\u2011abled students, talent, sports, legacy, Gilgit\u2011Baltistan students, educators, media and engineering professionals, post\u2011graduate fellowships and support for students who lose a parent or guardian.  The aim is to support deserving students and provide a holistic educational experience by recognizing merit, need and talent\u301056455572281006\u2020L4-L26\u3011.",
+    "source": "scholarship_policy"
+  },
+  {
+    "id": "UCP_060",
+    "text": "Under the Scholarship for Punjab Group of Colleges students, UCP awards a 50\u00a0% tuition waiver to students entering faculties such as Engineering, IT & Computer Science, Management Sciences, Humanities & Social Sciences, Media & Mass Communication, Science & Technology and Languages & Literature, and a 25\u00a0% waiver for Law and Pharmacy students.  To retain the scholarship students must achieve a continuation CGPA of 3.0 (or 2.0\u20133.0 for a 25\u00a0% award) after the first year; the waiver applies only for the standard program duration and requires completing at least 24\u00a0credit hours across two consecutive semesters\u301056455572281006\u2020L29-L112\u3011.",
+    "source": "scholarship_policy"
+  },
+  {
+    "id": "UCP_061",
+    "text": "The Alumni Scholarship encourages UCP graduates to pursue MBA, MS or M.Phil. degrees by offering a tuition waiver of 50\u00a0% for students with a previous CGPA of 3.5 or higher, 25\u00a0% for a CGPA between 3.0\u20133.49 and 12.5\u00a0% after the first semester for those with a CGPA between 2.5\u20132.99.  Recipients must maintain the required continuation CGPA, take at least nine credit hours and complete their degree within the standard duration (two years)\u301056455572281006\u2020L115-L156\u3011.",
+    "source": "scholarship_policy"
+  },
+  {
+    "id": "UCP_062",
+    "text": "UCP\u2019s merit\u2011based scholarships for undergraduate students offer up to a 100\u00a0% tuition waiver to the top five position holders in any intermediate board.  For Engineering, IT and Law, 80\u00a0% marks qualify for a 75\u00a0% scholarship (continuation CGPA \u22653.70), 75\u00a0% marks for 50\u00a0% (CGPA \u22653.50), 70\u00a0% marks for 25\u00a0% (CGPA \u22653.25) and lower marks for a 12.5\u00a0% waiver (CGPA \u22653.00).  Different thresholds apply for Pharmacy (85\u00a0%, 80\u00a0%, 75\u00a0% and 70\u00a0%) and for Management Sciences, Humanities & Social Sciences, Media, Science & Technology and Languages & Literature (80\u00a0%, 75\u00a0%, 70\u00a0% and 65\u00a0%).  Scholarships are provisional at admission, reviewed after two semesters, and only cover the standard duration\u301056455572281006\u2020L190-L266\u3011.",
+    "source": "scholarship_policy"
+  },
+  {
+    "id": "UCP_063",
+    "text": "For MBA and MS/M.Phil. students UCP offers merit\u2011based scholarships up to 75\u00a0%: applicants with a 16\u2011year degree CGPA of 3.80 receive 75\u00a0% (continuation CGPA \u22653.90), a CGPA of 3.60 earns 50\u00a0% (continuation 3.75\u20113.89), and a 25\u00a0% scholarship is available after the first semester for students with a CGPA of 3.50\u20113.74.  Recipients must maintain the required CGPA with a minimum nine\u2011credit\u2011hour workload and finish within the two\u2011year program duration\u301056455572281006\u2020L267-L305\u3011.",
+    "source": "scholarship_policy"
+  },
+  {
+    "id": "UCP_064",
+    "text": "UCP\u2019s need\u2011based scholarship provides 25\u00a0% to 100\u00a0% financial aid for undergraduate students facing financial hardships.  Applicants must submit a form at the admission portal; awards cover the first year and require maintaining at least a 2.50 CGPA and completing 30 credit hours over two consecutive semesters.  The scholarship only applies during the standard program duration\u301056455572281006\u2020L307-L349\u3011.",
+    "source": "scholarship_policy"
+  },
+  {
+    "id": "UCP_065",
+    "text": "Specially\u2011abled students may receive 25\u00a0% to 100\u00a0% tuition waivers at UCP (25\u2013100\u00a0% for undergraduate programs and 25\u201375\u00a0% for graduate programs).  Applicants must provide a government\u2011certified disability certificate.  To continue the scholarship students must maintain a CGPA of at least 2.50 (or 2.25\u20132.50 for a reduced 25\u00a0% award) with minimum credit hours, and the waiver covers only the standard program duration\u301056455572281006\u2020L351-L390\u3011.",
+    "source": "scholarship_policy"
+  },
+  {
+    "id": "UCP_066",
+    "text": "UCP awards Talent\u2011Based Scholarships to students with exceptional achievements in curricular and extracurricular activities.  The scholarship ranges from 25\u00a0% to 100\u00a0% of tuition and requires a minimum CGPA of 2.00 for continuation; it applies only during the normal duration of the degree program\u301056455572281006\u2020L402-L428\u3011.",
+    "source": "scholarship_policy"
+  },
+  {
+    "id": "UCP_067",
+    "text": "Sports\u2011Based Scholarships support athletic students by providing full or partial tuition waivers.  Recipients must maintain a CGPA of at least 2.00 and the scholarship applies only for the standard duration of the degree program\u301056455572281006\u2020L431-L457\u3011.",
+    "source": "scholarship_policy"
+  },
+  {
+    "id": "UCP_068",
+    "text": "The Legacy Scholarship grants a 25\u00a0% tuition waiver to siblings of current UCP students and children of UCP alumni.  Recipients must maintain a CGPA of 3.00 and the waiver covers only the normal duration of the degree program\u301056455572281006\u2020L460-L479\u3011.",
+    "source": "scholarship_policy"
+  },
+  {
+    "id": "UCP_069",
+    "text": "Students holding a Gilgit\u2011Baltistan domicile receive a 30\u00a0% tuition fee waiver for all undergraduate and graduate programs at UCP.  Beneficiaries must maintain a minimum CGPA of 2.70; female students also receive free hostel accommodation (room charges) and the waiver only applies for the program\u2019s standard duration\u301056455572281006\u2020L482-L505\u3011.",
+    "source": "scholarship_policy"
+  },
+  {
+    "id": "UCP_070",
+    "text": "The Educator Advancement Program offers a flat 50\u00a0% scholarship to teachers employed in schools, colleges or universities who enrol in MS, M.Phil. or PhD programs at UCP.  Applicants need at least two years of professional teaching experience and must maintain a CGPA of 3.00 while remaining employed; the scholarship covers the standard program duration (two years for MS/M.Phil., three years for PhD)\u301056455572281006\u2020L507-L532\u3011.",
+    "source": "scholarship_policy"
+  },
+  {
+    "id": "UCP_071",
+    "text": "UCP\u2019s scholarship for media professionals provides a flat 50\u00a0% tuition waiver for individuals with at least two years of professional experience who enrol in MS or M.Phil. programs in media and mass communication.  Recipients must maintain a CGPA of 3.00 and remain employed; the scholarship is valid for the standard two\u2011year duration\u301056455572281006\u2020L534-L556\u3011.",
+    "source": "scholarship_policy"
+  },
+  {
+    "id": "UCP_072",
+    "text": "Engineering professionals pursuing M.Sc. programs at UCP receive a 50\u00a0% tuition waiver if they have at least two years of professional experience in a relevant engineering field.  Continuation requires a CGPA of 3.00 and ongoing employment; the scholarship covers only the standard program duration\u301056455572281006\u2020L560-L586\u3011.",
+    "source": "scholarship_policy"
+  },
+  {
+    "id": "UCP_073",
+    "text": "UCP\u2019s Post\u2011Graduate Fellowship Program supports full\u2011time MS and PhD scholars in the Faculty of Information Technology & Computer Science.  Fellows serve as lab instructors or lecturers, receive a stipend of Rs\u00a050,000 (MS) or Rs\u00a060,000 (PhD) and enjoy a 100\u00a0% fee waiver for four semesters (MS) or six semesters (PhD).  Fellows must teach 9\u201312 contact hours or 6 credit hours and the fellowship covers only the standard program duration\u301056455572281006\u2020L588-L614\u3011.",
+    "source": "scholarship_policy"
+  },
+  {
+    "id": "UCP_074",
+    "text": "The Scholarship for Students with Deceased Parent/Guardian provides a 50\u00a0% tuition waiver for two semesters to currently enrolled students who lose a parent or guardian serving as the primary earner.  Eligible students must demonstrate that family assets are below Rs\u00a015\u00a0million and annual income is under Rs\u00a01.2\u00a0million\u301056455572281006\u2020L616-L639\u3011.",
+    "source": "scholarship_policy"
+  },
+  {
+    "id": "UCP_075",
+    "text": "Important notes: scholarships are awarded as tuition fee waivers only and do not cover admission fees or other charges; they apply only during the normal duration of the degree program and are not available for repeat or improvement courses.  Recipients must abide by university rules and disciplinary policies\u2014scholarships can be modified by the Academic Council and may be revoked for rule violations\u301056455572281006\u2020L640-L670\u3011.",
+    "source": "scholarship_policy"
+  },
+  {
+    "id": "UCP_076",
+    "text": "The Student Services Centre (SSC) serves as a one\u2011stop hub for addressing student queries and providing facilitation under one roof.  A specially trained team uses modern IT and task\u2011resolution tools so students do not have to visit multiple offices.  The SSC works closely with administrative and academic departments to offer academic and non\u2011academic guidance and aims to create a friendly, supportive environment for students\u3010942025654878689\u2020L74-L90\u3011.",
+    "source": "student_services"
+  },
+  {
+    "id": "UCP_077",
+    "text": "UCP\u2019s Career Services Office prepares students and alumni for their post\u2011university journey by offering pathways to better employment, foreign education opportunities and a strong connection with the institution.  The office operates through three \u2018verticals\u2019: placements (linking students to jobs), continuing education and alumni relations\u2014leveraging the alumni network to provide mentorship, guidance and placement support\u3010568970423933095\u2020L74-L86\u3011.",
+    "source": "career_services"
+  },
+  {
+    "id": "UCP_078",
+    "text": "The Quality Enhancement Cell (QEC) at UCP plans, guides and monitors quality assurance activities in accordance with the Higher Education Commission\u2019s quality assurance framework.  Its mission is to maintain and enhance the quality of education and research across the university\u3010276068899689211\u2020L75-L79\u3011.",
+    "source": "qec"
+  },
+  {
+    "id": "UCP_079",
+    "text": "UCP\u2019s Office of Research, Innovation & Commercialization (ORIC) acts as a hub for research excellence, innovation and commercialization.  ORIC aims to advance a culture of research excellence, bridge academia and industry, support high\u2011quality research, promote commercialization of university innovations and build strategic partnerships for national development.  Its vision is to be a catalyst for transformative research and innovation, and its mission emphasises research excellence, intellectual property generation and sustainable commercialization\u3010699697662927567\u2020L50-L75\u3011.",
+    "source": "oric"
+  },
+  {
+    "id": "UCP_080",
+    "text": "UCP invites applications twice a year (Fall and Spring; Engineering, Pharmacy and Law admit only in Fall).  Prospective students should explore programs, then complete the online application form and pay the processing fee.  After submission the applicant receives a reference number with admission test and interview details; merit lists are displayed online.  Successful candidates must deposit dues to receive their registration number and attend an orientation session\u3010422040069300560\u2020L76-L104\u3011.",
+    "source": "admissions"
+  },
+  {
+    "id": "UCP_081",
+    "text": "The Environmental Protection Society (EPS\u2011UCP) engages students in protecting the human and natural environment by using university resources sustainably.  Its goal is to train students to mobilize progress and nature for a modern, environmentally friendly, energy\u2011efficient and waste\u2011minimizing society\u3010765869923588213\u2020L124-L130\u3011.",
+    "source": "societies"
+  },
+  {
+    "id": "UCP_082",
+    "text": "The International Crisis Chamber (ICC\u2011UCP) promotes the ideals of the United Nations\u2014understanding, tolerance and acceptance\u2014through debates and diplomacy.  It aims to cultivate a pluralistic mindset among students by simulating crisis diplomacy exercises, fostering social responsibility and preparing future leaders with a global perspective\u3010765869923588213\u2020L194-L205\u3011.",
+    "source": "societies"
+  },
+  {
+    "id": "UCP_083",
+    "text": "The Islamic Guidance Club provides students with a circle to rejuvenate their Islamic spirit and broaden their vision.  Through conferences, Islamic events, symposiums, competitions, Naat coaching classes and interactive sessions, it encourages students to discern right from wrong and seek the true spirit of Islam\u3010765869923588213\u2020L230-L235\u3011.",
+    "source": "societies"
+  },
+  {
+    "id": "UCP_084",
+    "text": "Takhleeqkar is UCP\u2019s fine arts society offering a platform for artistic and creative minds.  It brings aspiring artists together to showcase their talents, gain exposure and socialize in a safe, supportive environment.  The society promotes communication skills, equal opportunities and inclusivity\u3010765869923588213\u2020L314-L319\u3011.",
+    "source": "societies"
+  },
+  {
+    "id": "UCP_085",
+    "text": "UCP\u2019s Student Handbook sets out the university\u2019s vision to become an internationally acclaimed institution in teaching and research and its mission to provide quality education in a stimulating environment with the intellectual and technological tools needed for the future.  Core values emphasised in the handbook are discipline, integrity, competence, rule of law, dignity and respect\u3010617387133874462\u2020L161-L179\u3011.",
+    "source": "student_handbook"
+  },
+  {
+    "id": "UCP_086",
+    "text": "The How to Apply page outlines a step-by-step admission process. UCP invites applications for Fall and Spring semesters; engineering, pharmacy and law admissions are Fall-only. Prospective students must research programs, then complete an online application at the admissions portal and pay the processing fee online, via bank transfer or at the Admissions Office. After submitting, applicants receive a reference number, test/interview date and venue. Merit lists are posted online and candidates are notified by email, SMS and portal. Successful applicants must deposit dues before the deadline to receive registration number and course details. Students are expected to attend an orientation and may collect timetables from the information desk. Contact details are provided for queries\u3010558975970443533\u2020L76-L107\u3011.",
+    "source": "how-to-apply"
+  },
+  {
+    "id": "UCP_087",
+    "text": "UCP\u2019s Scholarship Policy for Fall 2025 covers fifteen types of scholarships: (1) scholarships for Punjab Group of Colleges (PGC) students, (2) alumni scholarships for MBA/MS/MPhil programs, (3) merit-based scholarships for undergraduate and graduate programs, (4) need-based scholarships (undergraduate only), (5) scholarships for specially-abled students, (6) talent-based scholarships, (7) sports-based scholarships, (8) legacy scholarships, (9) scholarships for Gilgit-Baltistan students, (10) educator advancement programs, (11) scholarships for media professionals, (12) scholarships for engineering professionals, (13) post-graduate fellowship program, and (14) scholarships for students with a deceased parent/guardian. The document sets out eligibility and continuation criteria for each category, such as 50% or 25% tuition reductions for PGC students with minimum CGPA requirements, alumni scholarships based on previous CGPA with reductions up to 50%, and merit-based scholarships offering up to 100% tuition waiver for top board position holders\u3010332800107754611\u2020L10-L26\u3011.",
+    "source": "scholarship-policy"
+  },
+  {
+    "id": "UCP_088",
+    "text": "The fee structure page (2025-26) states that fees are subject to annual revision. For example, the BBA (Hons) program charges Rs 13,810 per credit hour with an admission fee of Rs 25,000; the first semester total is Rs 232,150 and scholarships can reduce the first instalment. Program variations such as BBA Post-ADP (Business or Non-Business backgrounds) and BS Accounting & Finance have similar per-credit fees with different total credits and semester fees. The table lists per-credit hour fee, admission fee, first semester total, instalment amounts with various scholarship percentages, total credit hours and total program fee. The same structure is provided for other programs across faculties\u3010541053378603131\u2020L70-L111\u3011.",
+    "source": "fee-structure"
+  },
+  {
+    "id": "UCP_089",
+    "text": "UCP\u2019s Facilities page describes several campus amenities. The Media Hub includes a state-of-the-art production house where students learn television and cinema production, FM 92.6 radio which broadcasts 24/7 infotainment and trains students in radio careers, and a non-linear editing lab with 40 specialized computers for video editing and animation projects\u301056270018610085\u2020L72-L107\u3011. The Sports Complex promotes physical well-being with separate male and female gyms, a 25-yard all-weather swimming pool (depth 3\u20136 ft), and recreational games such as table tennis and foosball\u301056270018610085\u2020L158-L165\u3011. The campus has two air-conditioned cafeterias, a food street and an executive lounge with subsidized prices and high hygiene standards\u301056270018610085\u2020L200-L209\u3011. A student shuttle service operates 12 buses along eight routes in Lahore, offering safe transport at nominal rates\u301056270018610085\u2020L230-L236\u3011. The auditorium seats 400 people with advanced lighting and sound for conferences, performances and TV recordings\u301056270018610085\u2020L269-L276\u3011. The UCP library houses about 40,000 textbooks and 2,350 reference books, offers access to research databases (IEEE, JSTOR, McGraw-Hill, Project MUSE, Taylor & Francis, Wiley-Blackwell, etc.), and provides comfortable study spaces during working hours\u301056270018610085\u2020L291-L303\u3011.",
+    "source": "facilities"
+  },
+  {
+    "id": "UCP_090",
+    "text": "The Student Handbook 2020 provides an overview of UCP\u2019s policies and services. Contents include student welfare (social support, registrar office, student council, career services, library, special needs service, safety & security, financial support), academic rules (refund of fees, class attendance, credit hours, withdrawal, semester leave, evaluation and grading system, transfers and equivalence, exams, summer semester, incomplete grades, CGPA, probation, course repetition, time limit, transcripts, retake of exams), residence (girls\u2019 hostel rules and refund policy), emergency resources, disciplinary procedures and rights (drinking/eating, drugs and smoking, dress code, parking, acts of indiscipline and penalties, plagiarism), complaints procedures, call directory, academic and social calendars, and campus map. The handbook reiterates UCP\u2019s vision to become an internationally acclaimed university in teaching and research, mission to provide quality education leading to research and entrepreneurship, and core values of discipline, integrity, competence, rule of law, dignity and respect\u3010345613954929603\u2020L154-L180\u3011.",
+    "source": "student-handbook"
+  },
+  {
+    "id": "UCP_091",
+    "text": "The Rules & Regulations 2025 page outlines key policies. Admission eligibility: undergraduate applicants need at least 45% marks in Intermediate/A-Levels; engineering and pharmacy require 60%, while BS Computer Science, Software Engineering and Data Sciences require 50%. For MS/MPhil admission, a 16-year bachelor degree with minimum 2.0 CGPA or 50% marks is needed; PhD admission requires an 18-year master\u2019s degree with 3.0/4.0 CGPA or 60% marks\u3010627828544672580\u2020L76-L88\u3011. Transfer of credits is granted for courses from recognized institutions with grade C+ or B- or higher; maximum 50% of required credits can be transferred, and only courses comparable in content and level are accepted\u3010627828544672580\u2020L92-L110\u3011. During registration, new students are assigned courses by the Dean\u2019s Office; continuing students register according to their roadmaps, respecting prerequisites and paying dues; a typical load is 15\u201318 credit hours but up to 21 may be allowed\u3010627828544672580\u2020L114-L130\u3011. Fees are generally non-refundable; however, for new admissions, 100% tuition is refunded within the first week, 50% within the second week, and no refund afterward; admission fees are non-refundable\u3010627828544672580\u2020L132-L146\u3011. If a program is cancelled, both tuition and admission fees are fully refunded\u3010627828544672580\u2020L144-L146\u3011.",
+    "source": "rules-and-regulations"
+  },
+  {
+    "id": "UCP_092",
+    "text": "The Societies and Clubs page lists numerous student societies at UCP. Notable examples include the Innovation & Entrepreneurship Club, led by President Muhammad Zaid Akram, which fosters entrepreneurial initiatives; the UCP Welfare Society focused on social welfare projects; the Environmental Protection Society (EPS-UCP), which trains students to conserve resources and promote sustainability\u3010728458837326147\u2020L124-L130\u3011; Gaming Den for computer and mobile gaming enthusiasts; the Inclusive Student Society advocating inclusivity; the International Crisis Chamber (ICC-UCP), which encourages debates and diplomacy to cultivate pluralistic ideals and trains future diplomats\u3010728458837326147\u2020L190-L200\u3011; the Islamic Guidance Club, which organizes conferences and events to encourage Islamic values\u3010728458837326147\u2020L228-L235\u3011; the Mosaic Cultural & Heritage Society promoting cultural heritage; Motorhead for automobile enthusiasts; Paws & Claws for pet lovers; Takhleeqkar Fine Arts Society providing opportunities for artistic expression and equal participation\u3010728458837326147\u2020L312-L323\u3011; UCP Adventure Club promoting exploration and tourism; and the UCP Photography Club offering workshops and events for photographers\u3010728458837326147\u2020L339-L368\u3011. These societies offer leadership positions and aim to develop skills, community engagement and extracurricular enrichment.",
+    "source": "societies-and-clubs"
+  },
+  {
+    "id": "UCP_093",
+    "text": "The About UCP page summarises the university\u2019s vision, mission and core values. UCP aspires to become an internationally acclaimed university in teaching and research, with a mission to provide quality education leading to research, employability and entrepreneurial pursuits that impact society\u3010928896400827241\u2020L78-L83\u3011. The core values emphasise integrity, respect, tolerance, commitment, service and creativity\u3010928896400827241\u2020L86-L112\u3011. Chairman Mian Amer Mahmood\u2019s message highlights UCP as a dynamic community of diverse scholars and students, dedicated to education and research; he invites students to engage in educational, social and athletic activities to develop self-discovery and growth, and emphasizes promoting entrepreneurship to produce job creators\u3010928896400827241\u2020L126-L152\u3011. Pro-Rector Dr. Hammad Naveed\u2019s message welcomes students and emphasizes that education is a transformative journey; UCP aims to equip students with skills to thrive in a changing world, through outstanding teaching, scholarships, flexible programs and extracurricular activities\u3010928896400827241\u2020L160-L176\u3011.",
+    "source": "about-ucp"
+  },
+  {
+    "id": "UCP_094",
+    "text": "The University of Central Punjab displays key performance indicators on its homepage: the university ranks 362nd in the Top Asian QS ranking, 206th in the UI Green Metric ranking, and has a Quality Assurance score of 91.3 out of 100 (Higher Education Commission). UCP reports awarding PKR\u00a01.3\u00a0billion in scholarships, with 37\u00a0% of students receiving financial aid. The university has secured 80 intellectual property rights, maintains 23 active international memoranda of understanding, counts over 29,000 alumni and boasts 65 dynamic student clubs\u3010575164087021528\u2020L292-L345\u3011.",
+    "source": "home-metrics"
+  },
+  {
+    "id": "UCP_095",
+    "text": "UCP announced that it ranked second among private-sector universities and fourth overall in Pakistan in the International Green Metric Ranking. This recognition highlights sustainability initiatives such as 0.5\u00a0MW of renewable energy generation, a 500\u2011litre\u2011per\u2011day water-treatment plant and three reverse-osmosis plants; these measures contribute to the institution\u2019s commitment to the Sustainable Development Goals and a greener campus\u3010180434739368778\u2020L76-L91\u3011.",
+    "source": "international-green-metric"
+  },
+  {
+    "id": "UCP_096",
+    "text": "Times Higher Education\u2019s profile notes that UCP is located in Lahore and has nine faculties\u2014information technology, engineering, pharmacy, life sciences, arts and social sciences, media and communication studies, languages and literature, law and management sciences. UCP offers four\u2011year bachelor degrees and two\u2011year master programmes, and the university pioneered a greener campus equipped with science and technology labs, two gymnasiums, a swimming pool, two indoor cafeterias, rooftop Caf\u00e9s and an amphitheatre. Entrepreneurship is encouraged, with students able to join numerous societies\u3010796398193012265\u2020L121-L146\u3011.",
+    "source": "the-profile"
+  },
+  {
+    "id": "UCP_097",
+    "text": "According to the Times Higher Education World University Rankings 2026, UCP is placed in the 801\u20131000 band worldwide, while its engineering and physical sciences programmes fall within the 601\u2011800 band. The ranking breakdown shows scores of 12.9 for teaching, 11.8 for research environment, 81.6 for research quality, 20.1 for industry and 49.9 for international outlook\u3010796398193012265\u2020L104-L173\u3011.",
+    "source": "the-ranking"
+  },
+  {
+    "id": "UCP_098",
+    "text": "Edurank\u2019s statistics for 2025 list UCP at 4036th in the world, 25th in Pakistan and seventh in Lahore. The private university has produced approximately 4,192 scientific papers that have accrued 46,765 citations across disciplines such as biology, liberal arts and social sciences, computer science, chemistry, engineering and environmental science. Edurank estimates the acceptance rate at around 65\u00a0%, noting that some programmes may admit all applicants who meet minimum requirements\u3010594493684053035\u2020L43-L72\u3011\u3010594493684053035\u2020L79-L86\u3011.",
+    "source": "edurank-statistics"
+  },
+  {
+    "id": "UCP_099",
+    "text": "The Grokipedia profile describes UCP as a private university in Lahore chartered on 10\u00a0April\u00a02002 after operating under the Punjab Group of Colleges (PGC) since 1999. The institution emphasizes research, employability and entrepreneurship, and offers PKR\u00a01.3\u00a0billion in scholarships to a diverse student body. Its 20\u2011acre campus features advanced science laboratories, solar panels, an auditorium, webinar rooms and a production house, and the university spans nine faculties offering 35 undergraduate, 37 postgraduate and 19 PhD programmes\u3010278054092311448\u2020L29-L57\u3011.",
+    "source": "grokipedia-general"
+  },
+  {
+    "id": "UCP_100",
+    "text": "UCP\u2019s origins lie in the Punjab Group of Colleges, which petitioned the Government of Punjab in August\u00a01996 to establish a private university. A No Objection Certificate was issued in October\u00a01999, allowing operations to commence under affiliated colleges (Punjab College of Business Administration, Punjab Institute of Computer Sciences, Punjab College of Commerce and Punjab Law College). The university received its charter on 16\u00a0April\u00a02002, becoming the first private-sector degree-awarding university in Punjab; early programmes focused on management studies, information technology, commerce and law\u3010278054092311448\u2020L64-L87\u3011.",
+    "source": "grokipedia-history"
+  },
+  {
+    "id": "UCP_101",
+    "text": "The Grokipedia article notes that UCP expanded rapidly after 2002, relocating to a new campus in Johar Town in 2010 and launching additional faculties, including Engineering (2002) and Pharmacy (2011). Recognition from the Higher Education Commission in 2004 affirmed its degree-awarding status. The university introduced PhD programmes in 2010 and, by 2025, had secured 80 intellectual property rights. UCP also increased female enrolment to 42\u00a0% and female faculty representation to 43\u00a0%, aligning with national reforms promoting gender equity\u3010278054092311448\u2020L91-L116\u3011.",
+    "source": "grokipedia-milestones"
+  },
+  {
+    "id": "UCP_102",
+    "text": "UCP\u2019s main campus in Johar Town spans approximately 75 kanals and comprises three buildings (A, B and C) connected by accessible pathways. Facilities include air\u2011conditioned lecture halls, science and engineering laboratories, workshops, an auditorium, sports complex and girls\u2019 hostel. Sustainability is built into the design via a 0.5\u00a0MW renewable energy system, a wastewater treatment plant with 500\u2011litre daily capacity, three reverse\u2011osmosis water purification plants and a recycling vending machine, contributing to a UI\u00a0GreenMetric ranking of 206. The campus offers transport via 12 buses on eight routes, a shuttle service and electric scooters\u3010278054092311448\u2020L120-L147\u3011.",
+    "source": "grokipedia-campus"
+  },
+  {
+    "id": "UCP_103",
+    "text": "The UCP central library, established soon after the university\u2019s founding, holds around 40,000 books organized by the Dewey Decimal system and about 2,350 reference works (dictionaries, encyclopedias, handbooks, directories and Islamic collections). The library provides extensive digital resources through subscriptions to international databases (IEEE, JSTOR, McGraw-Hill, Project\u00a0MUSE, Taylor\u00a0&\u00a0Francis and Wiley-Blackwell) and integrates with the HEC National Digital Library, offering access to thousands of e\u2011journals, e\u2011books and the Pakistan Research Repository. Specialized collections support disciplines such as pharmacy and engineering, with digital access available 24/7; over 46,000 online visits were recorded in the past year\u3010278054092311448\u2020L151-L177\u3011.",
+    "source": "grokipedia-library"
+  },
+  {
+    "id": "UCP_104",
+    "text": "Grokipedia explains that UCP operates under the Punjab Group of Colleges and was chartered by the Government of Punjab in April\u00a02002. Its governance structure includes a Board of Governors, Academic Council and Syndicate in line with Higher Education Commission guidelines. A Quality Enhancement Cell (QEC) ensures compliance with HEC standards and internal audits, contributing to UCP\u2019s HEC Quality Assurance score of 91.3/100. Women hold 42\u00a0% of senior leadership roles, reflecting inclusive governance\u3010278054092311448\u2020L183-L219\u3011.",
+    "source": "grokipedia-governance"
+  },
+  {
+    "id": "UCP_105",
+    "text": "UCP\u2019s leadership includes Chairman Mian\u00a0Amer\u00a0Mahmood, who founded the university as part of the Punjab Group of Colleges, and Pro\u2011Rector Dr\u00a0Hammad\u00a0Naveed, who manages academic and administrative affairs. Deans oversee faculties, including Dr\u00a0Muhammad\u00a0Amjad\u00a0Iqbal (Faculty of Information Technology and Computer Science) and Dr\u00a0Muhammad\u00a0Rizwan\u00a0Shad (Faculty of Engineering). The university employs around 199 PhD-qualified faculty members to support teaching and research\u3010278054092311448\u2020L223-L241\u3011.",
+    "source": "grokipedia-leadership"
+  },
+  {
+    "id": "UCP_106",
+    "text": "The student\u2011life section highlights that UCP supports 65 clubs and societies fostering leadership, communication and specialized skills. These include debating, technical groups like IEEE and ACM, cultural societies such as Mosaic and Plektra, media and entrepreneurship clubs. Major events include the Ideas Conclave, which hosts panel discussions, and the annual UCP Film Festival (fourth edition in December\u00a02024 and fifth scheduled for 23\u201124\u00a0December\u00a02025). Sports festivals and inter\u2011faculty tournaments are held regularly, supported by campus facilities such as table\u2011tennis and foosball areas, separate gyms for men and women, and a 25\u2011yard all\u2011weather swimming pool. The UCP Sports Club organizes tournaments in badminton, basketball, cricket, hockey, soccer and table tennis\u3010278054092311448\u2020L455-L487\u3011.",
+    "source": "grokipedia-extracurricular"
+  },
+  {
+    "id": "UCP_107",
+    "text": "UCP requires all students to participate in the Volunteers in Service (VIS) program, which mandates volunteer work with partner organizations before graduation. Collaborations with local entities\u2014such as Shaukat Khanum Memorial Cancer Hospital and the UCP Welfare Society\u2019s campaigns against thalassemia\u2014enable students to undertake community outreach and service projects, fostering civic responsibility and empathy\u3010278054092311448\u2020L488-L496\u3011.",
+    "source": "grokipedia-volunteer"
+  },
+  {
+    "id": "UCP_108",
+    "text": "UCP provides extensive financial aid, awarding about PKR\u00a01.3\u00a0billion in scholarships annually across merit-based, need-based and specialized categories. Awards range from 12.5\u00a0% to 100\u00a0% tuition waivers, with merit scholarships determined by intermediate marks or previous CGPA. The PGC Scholarship grants 25\u201350\u00a0% tuition relief to students affiliated with the Punjab Group of Colleges, while regional grants (e.g., 30\u00a0% plus hostel accommodation for female students from Gilgit\u2011Baltistan) promote accessibility. PhD fellowships offer stipends up to PKR\u00a060,000 and full fee waivers for full-time research. Need-based scholarships cover 25\u2011100\u00a0% of tuition for BS programmes, requiring documentation of financial hardship and maintenance of at least 3.0 CGPA. Support services include the Career Services Office, which provides CV building and job placement assistance; the Student Services Center, which addresses personal and academic challenges; a robust harassment policy; disability accommodations such as ramps and wheelchairs; and expanded mental-health initiatives since 2020\u3010278054092311448\u2020L498-L540\u3011.",
+    "source": "grokipedia-scholarships"
+  },
+  {
+    "id": "UCP_109",
+    "text": "UCP\u2019s Office of Research, Innovation and Commercialization (ORIC) was established to meet Higher Education Commission requirements and promotes research-based innovation and commercialization. ORIC oversees three departments: the Directorate of Research, which fosters research culture among students and faculty and aligns research with educational, social and economic priorities; Industrial Linkages, which builds public\u2013private partnerships and seeks opportunities for applied research, technology transfer and commercialization; and Takhleeq, a business incubator that supports entrepreneurship through events, lectures and national and international linkages\u3010540998172883225\u2020L77-L115\u3011.",
+    "source": "oric-overview"
+  },
+  {
+    "id": "UCP_110",
+    "text": "Takhleeq is the university\u2019s problem-solving institute and business incubator. Its vision is to become an epicenter of innovation, while its mission emphasises a diverse environment for tackling problems through empathy. Takhleeq is part of the Frontiers Incubator (supported by the Australian government) and a member of the UBI Global interactive learning community of 700+ incubators. Its six-month incubation programme guides entrepreneurs through stages such as ideation, pitching, marketing, legal and IP advice, human\u2011centred design, product development, team building, mock board meetings, lean canvas methodology and revenue modeling\u3010422936289899876\u2020L37-L73\u3011.",
+    "source": "takhleeq-incubator"
+  },
+  {
+    "id": "UCP_111",
+    "text": "The approved admission calendar for Fall\u00a02025 outlines key dates: the advertisement will be published after intermediate result declaration. Admissions open on 2\u00a0June\u00a02025, with Phase\u2011I applications due by 17\u00a0July\u00a02025 and the first admission test on 19\u00a0July\u00a02025. Subsequent tests will be held in Multan (26\u00a0July), Faisalabad (2\u00a0August) and Gilgit\u2011Baltistan (9\u00a0August). Phase\u2011II applications close on 11\u00a0August, with the second test on 13\u00a0August, while Phase\u2011III applications end on 2\u00a0September with a third test on 4\u00a0September. Phase\u2011IV applications are due by 16\u00a0September. Orientation week runs from 22\u201126\u00a0September\u00a02025, classes commence on 29\u00a0September and programme change/transfer requests are accepted until 10\u00a0October\u00a02025\u3010311691965180723\u2020L11-L63\u3011.",
+    "source": "admission-calendar-2025"
+  },
+  {
+    "id": "UCP_112",
+    "text": "The \u2018How to Apply\u2019 page explains that UCP admits students twice a year and some faculties (Engineering, Pharmacy, Law) accept applications only in the Fall semester. Prospective students should research programmes online or on campus and then complete the online application form. Application fees can be paid electronically, via bank transfer or at the Admissions Office. After submission, applicants receive a reference number and test/interview schedule. Merit lists are published online and candidates are notified via email, SMS and the portal; admitted students must pay dues by the deadline to obtain their registration number and course details. An orientation session is held for all new students, who can collect timetables from the information desk\u3010558975970443533\u2020L70-L103\u3011.",
+    "source": "how-to-apply"
+  },
+  {
+    "id": "UCP_113",
+    "text": "A 2023 overview describes UCP as a private university in Lahore established in 1999 and recognised by the Higher Education Commission since 2002. The article lists nine faculties\u2014Pharmaceutical Sciences, Languages &\u00a0Literature, Information Technology &\u00a0Computer Science, Engineering, Media &\u00a0Mass Communication, Humanities &\u00a0Social Sciences, Science &\u00a0Technology, Management Sciences and Law\u2014and notes that UCP offers a wide range of undergraduate, graduate and postgraduate programmes across these disciplines\u3010959558843173285\u2020L54-L104\u3011.",
+    "source": "graana-overview"
+  },
+  {
+    "id": "UCP_114",
+    "text": "UCP\u2019s Directorate of Research, established in December 2014, aims to create an enabling environment for rigorous, relevant and useful research.  Its goals include organising seminars, training workshops and individual mentoring to enhance research skills, increasing the number of quality research papers, liaising with the Higher Education Commission and other bodies, developing a research policy and providing individual counselling to students; a focal person from each faculty acts as a \u2018change agent\u2019 to promote research culture\u301041254514586548\u2020L84-L114\u3011.",
+    "source": "research_department"
+  },
+  {
+    "id": "UCP_115",
+    "text": "The Research Directorate\u2019s achievements include securing third position in the 2015 CIIT\u2011CIMA Business Case Study Awards for a case study on Summit Bank, organising international research seminars on globalization, MS\u2011to\u2011PhD pathways and systematic literature reviews, and hosting the 3rd and 4th International Conferences on Contemporary Issues in Business Management (ICIBM) in 2016 and 2017.  These conferences brought together academics, researchers and industry experts to discuss innovations in business and sustainable practices, with keynote speakers from Henley Business School, KEDGE Business School and Cass Business School, and emphasised collaboration between academia and industry\u301041254514586548\u2020L120-L183\u3011.",
+    "source": "research_department_achievements"
+  },
+  {
+    "id": "UCP_116",
+    "text": "The UCP International Office (UCP\u2011IO) coordinates, develops and expands the university\u2019s global footprint.  It serves as a liaison between UCP and international partners, working with students and academic units to identify opportunities for global engagement, provide central support for international activities, represent UCP in dealings with partners, manage inbound and outbound exchanges, and support international students and scholars on campus\u3010859969286299436\u2020L115-L134\u3011.",
+    "source": "international_office"
+  },
+  {
+    "id": "UCP_117",
+    "text": "UCP\u2011IO promotes student exchange programmes as a way to broaden horizons and develop skills.  Benefits highlighted include the opportunity to travel and experience different cultures, exposure to new educational styles and perspectives, immersion in new languages and traditions, the possibility of transferring credits back to UCP (subject to approval), personal development through self\u2011confidence and social maturity, and professional development by gaining international experience valued by employers\u3010859969286299436\u2020L145-L196\u3011.",
+    "source": "international_office_exchange_benefits"
+  },
+  {
+    "id": "UCP_118",
+    "text": "UCP believes in developing collaborations with foreign and local higher\u2011education institutions and industry.  The university has signed memoranda of understanding with international universities such as Xi\u2019an International Studies University (China), South Eastern Regional College (Northern Ireland), Arcada University of Applied Sciences (Finland), Umm Al\u2011Qura University (Saudi Arabia), the Roslin Institute at the University of Edinburgh (UK), Guangdong Ocean University (China), and others between 2012\u20132018.  National collaborations include Al\u2011Khawarizmi Institute of Computer Science (UET Lahore), the School of Biological Sciences (University of the Punjab) and Jinnah Hospital.  Industrial partners include Pakistan Stock Exchange, Al\u2011Baraka Bank, Zong CMPak and other companies.  These collaborations support joint research, exchange programmes, credit transfers and industry\u2011related seminars\u30107704387730064\u2020L78-L115\u3011.",
+    "source": "partnerships_and_collaborations"
+  },
+  {
+    "id": "UCP_119",
+    "text": "UCP is governed under a charter issued by the Government of Punjab.  The Board of Governors is chaired by Mian Amer Mahmood and includes the Governor of Punjab as Patron along with representatives from Educational Excellence Limited, the Higher Education Commission and other accrediting bodies.  This governance structure ensures oversight of academic and administrative matters and aligns university activities with regulatory requirements\u3010563643658008229\u2020L74-L116\u3011.",
+    "source": "governance"
+  },
+  {
+    "id": "UCP_120",
+    "text": "The UCP Alumni Relations office aims to foster a lifelong, mutually beneficial relationship between UCP and its alumni.  With over 24,891 active alumni profiles, it promotes networking, professional development and community engagement through programmes, events and initiatives.  The office\u2019s vision is to create a vibrant, supportive alumni community that contributes to the university\u2019s growth and the professional and personal development of its members\u3010625037055412030\u2020L39-L52\u3011.",
+    "source": "alumni_relations"
+  },
+  {
+    "id": "UCP_121",
+    "text": "In EduRank\u2019s 2025 subject rankings, the University of Central Punjab is ranked 45th in Pakistan and 3411th worldwide for Computer Science, with 1,938 publications and 24,482 citations.  Its main research topics include artificial intelligence, machine learning, bioinformatics, telecommunications and neuroscience\u3010209339425823025\u2020L224-L231\u3011.  Sub\u2011field rankings place UCP within Pakistan\u2019s top 50 for Management Information Systems, Bioinformatics and Computational Biology, Blockchain and Cryptography, Software Engineering, Data Science, Machine Learning and other areas\u3010209339425823025\u2020L265-L280\u3011.",
+    "source": "ranking_computer_science"
+  },
+  {
+    "id": "UCP_122",
+    "text": "EduRank\u2019s 2025 chemistry rankings place UCP 51st in Pakistan and 3746th worldwide, with 1,930 publications and 21,719 citations.  Research focuses on biochemistry, organic chemistry, materials science, chemical engineering and nanotechnology\u3010209339425823025\u2020L282-L290\u3011.  Sub\u2011field rankings show UCP among the top Pakistani institutions in computational chemistry, radiochemistry, nanotechnology, petrology and geochemistry, chemical engineering and environmental chemistry\u3010209339425823025\u2020L336-L347\u3011.",
+    "source": "ranking_chemistry"
+  },
+  {
+    "id": "UCP_123",
+    "text": "EduRank\u2019s 2025 engineering rankings place UCP 58th in Pakistan and 3863rd worldwide, with 1,880 publications and 23,191 citations.  Key research areas include materials science, electrical engineering, chemical engineering, nanotechnology and metallurgical engineering\u3010209339425823025\u2020L349-L355\u3011.  UCP is particularly noted for renewable energy engineering and has produced a growing number of publications and citations since 2015\u3010209339425823025\u2020L349-L384\u3011.",
+    "source": "ranking_engineering"
+  },
+  {
+    "id": "UCP_124",
+    "text": "For Environmental Science, EduRank 2025 positions UCP 54th in Pakistan and 3862nd globally, with 1,807 publications and 22,906 citations.  Research themes span ecology, geology, geography and cartography, paleontology and agricultural science\u3010209339425823025\u2020L409-L418\u3011.  Sub\u2011fields where UCP ranks within Pakistan\u2019s top fifty include petrology and geochemistry, agricultural science, ecology, environmental management, paleontology and earth science\u3010209339425823025\u2020L463-L470\u3011.",
+    "source": "ranking_environmental_science"
+  },
+  {
+    "id": "UCP_125",
+    "text": "In medicine, EduRank 2025 lists UCP 50th in Pakistan and 3753rd worldwide, with 1,765 publications and 17,740 citations.  UCP\u2019s medical research covers pathology, psychiatry, public health, pharmacology and immunology\u3010209339425823025\u2020L478-L485\u3011.  Sub\u2011field rankings highlight strengths in veterinary science, critical care nursing, gastroenterology and hepatology, virology, family medicine, clinical psychology, healthcare management and public health\u3010209339425823025\u2020L529-L547\u3011.",
+    "source": "ranking_medicine"
+  },
+  {
+    "id": "UCP_126",
+    "text": "EduRank\u2019s 2025 physics rankings place UCP 52nd in Pakistan and 3794th globally, with 1,688 publications and 21,423 citations.  Research areas include quantum and particle physics, materials science, nanotechnology, optical engineering and astrophysics\u3010209339425823025\u2020L550-L556\u3011.  The university\u2019s physics outputs and citations have increased steadily since 2010\u3010209339425823025\u2020L550-L570\u3011.",
+    "source": "ranking_physics"
+  },
+  {
+    "id": "UCP_127",
+    "text": "At the University of Central Punjab, research is recognised as a vital pillar for knowledge creation and societal development. The Directorate of Research (under the Pro\u2011Rector) cultivates a dynamic research culture by designing and overseeing research processes, collaborating with faculty deans, organising training workshops and maintaining a research portal. It incentivises high\u2011quality scholarship through a publication remuneration award and aims to build a vibrant research ecosystem that strengthens teaching, fosters critical inquiry and has meaningful impact\u301012602118892404\u2020L78-L105\u3011.",
+    "source": "research_overview"
+  },
+  {
+    "id": "UCP_128",
+    "text": "Dr. Muhammad Akhyar Farrukh, Director Research at UCP and Professor of Chemistry, has more than 25 years of research and teaching experience. He holds national and international roles (chairing Pakistan\u2019s nanotechnology technical committee and serving on ISO/TC\u00a0229) and has earned numerous honours, including multiple gold medals, Young Scientist awards and the IUPAC\u20112015 award. Farrukh is among the world\u2019s top 2\u00a0% most\u2011cited scientists according to Stanford University, with 137 research articles, 26 books, seven US patents, and supervision of over 120 graduate theses\u301012602118892404\u2020L113-L147\u3011.",
+    "source": "research_overview"
+  },
+  {
+    "id": "UCP_129",
+    "text": "UCP\u2019s R&D portfolio includes a nanotechnology\u2011driven wastewater treatment project titled \u2018Novel Nanotechnology Approaches to Indigenous Wastewater Treatment for a Cleaner and Climate\u2011Resilient Future\u2019. The initiative develops nanotech\u2011based methods for treating wastewater, addressing environmental and public\u2011health challenges while aligning with SDGs\u00a06 (Clean Water),\u00a09 (Industry/Innovation) and\u00a013 (Climate Action). Led by Prof.\u00a0Dr.\u00a0Muhammad\u00a0Akhyar\u00a0Farrukh from the Faculty of Science\u00a0& Technology, the project is funded by UCP and Water Care Services Pakistan, runs 2024\u20112026, and has a budget of PKR\u00a01.073\u00a0million\u3010892961296103251\u2020L77-L104\u3011.",
+    "source": "rd_projects"
+  },
+  {
+    "id": "UCP_130",
+    "text": "Another major R&D effort is \u2018Advanced Level CanSATs for STEM Education, Space Exploration, Agriculture, Disaster Management, Climate and Environmental Research.\u2019 This project designs and develops student satellites (CanSATs) and a dedicated ground station to engage school, college and university students in hands\u2011on space research. It includes developing a launch platform and reusable solid\u2011fuel rocket. Led by Dr.\u00a0M.\u00a0Kamran\u00a0Saleem from the Faculty of Engineering (Electrical Engineering Department), it is funded by Pakistan\u2019s Ministry of Planning Development and Special Initiatives, runs July\u00a02024 to June\u00a02026 and is valued at PKR\u00a07.6\u00a0million\u3010892961296103251\u2020L117-L150\u3011.",
+    "source": "rd_projects"
+  },
+  {
+    "id": "UCP_131",
+    "text": "A related research project focuses on the \u2018Design and Development of Ultra\u2011Wide Band (UWB) Antenna Arrays for Space Applications\u2019. The project systematically designs, optimises and evaluates high\u2011performance UWB antennas and arrays, benchmarking them against existing models to develop best\u2011practice design guidelines. Led by Dr.\u00a0M.\u00a0Kamran\u00a0Saleem (Electrical Engineering Department), it is supported by Pakistan\u2019s space agency SUPARCO, runs March\u00a02025 to August\u00a02025 and has a budget of PKR\u00a01.2\u00a0million\u3010892961296103251\u2020L153-L174\u3011.",
+    "source": "rd_projects"
+  },
+  {
+    "id": "UCP_132",
+    "text": "The Environmental Protection Society (EPS\u2011UCP) trains students to use university resources sustainably and aims to mobilise the combined forces of progress and nature for an environmentally friendly, energy\u2011efficient and waste\u2011minimising society. It encourages students to develop modern practices that protect the environment and promote a better present and future\u3010608598060468674\u2020L124-L130\u3011.",
+    "source": "societies_and_clubs"
+  },
+  {
+    "id": "UCP_133",
+    "text": "The International Crisis Chamber (ICC\u2011UCP) at UCP aims to instil United Nations values such as tolerance, understanding and pluralism. It provides a platform for students to engage in diplomacy and Model United Nations (MUN)\u2011style debates, fostering a pluralistic mindset and encouraging social responsibility and peacekeeping through stimulating debates and exercises in diplomacy\u3010608598060468674\u2020L190-L207\u3011.",
+    "source": "societies_and_clubs"
+  },
+  {
+    "id": "UCP_134",
+    "text": "The Islamic Guidance Club (IGC) gives students opportunities to rejuvenate their Islamic spirit by broadening their vision of right and wrong through conferences, Islamic events, symposiums, competitions, Naat coaching classes and interactive sessions. The club encourages students to discover the true spirit of Islam within themselves\u3010608598060468674\u2020L230-L235\u3011.",
+    "source": "societies_and_clubs"
+  },
+  {
+    "id": "UCP_135",
+    "text": "Takhleeqkar Fine Arts Society, UCP\u2019s only fine\u2011arts society, provides a platform and safe haven for creative students to showcase their talents, meet like\u2011minded peers and develop communication skills. The society promotes equality, opposes bias and strives to nurture a well\u2011managed artistic community that continues to promote arts and crafts\u3010608598060468674\u2020L314-L323\u3011.",
+    "source": "societies_and_clubs"
+  },
+  {
+    "id": "UCP_136",
+    "text": "The UCP Adventure Club offers students opportunities to explore different regions of Pakistan, from coasts to mountains, promoting tourism and fostering a positive national image. Its goal is to provide adventurous experiences and encourage students to discover the country\u2019s natural beauty\u3010608598060468674\u2020L338-L344\u3011.",
+    "source": "societies_and_clubs"
+  },
+  {
+    "id": "UCP_137",
+    "text": "The UCP Photography Club, initiated in 2011, creates an inclusive space for photographers. It has grown rapidly and organises workshops, photo walks, competitions, mega events and interactive sessions to help students practise their craft and develop their photographic skills\u3010608598060468674\u2020L362-L368\u3011.",
+    "source": "societies_and_clubs"
+  },
+  {
+    "id": "UCP_138",
+    "text": "UCP hosted the International Conference on \u2018Mental Health, Human Dignity and Climate Change: Mitigating Global Psychological Risks\u2019 in 2025. Organised by the Department of Psychology, the event explored the interplay between human dignity, mental health and climate change, bringing together international scholars and mental health professionals to discuss how social inequality, environmental degradation and humiliation cycles affect psychological well\u2011being. Through keynote speeches, scientific sessions and panel discussions, the conference promoted cross\u2011cultural collaboration and collective action for global psychological sustainability\u3010641154622677106\u2020L79-L89\u3011.",
+    "source": "announcement_conference"
+  },
+  {
+    "id": "UCP_139",
+    "text": "The Career Services Office organised a session titled \u2018Mental Health & Nutrition\u2019 for Faculty of Science & Technology students. Guest speaker Dr.\u00a0Sharmeen Yaseen explained how balanced nutrition supports mental health, academic performance and personal growth, encouraging students to adopt healthy lifestyles and better plan their futures\u3010721788623061709\u2020L75-L80\u3011.",
+    "source": "announcement"
+  },
+  {
+    "id": "UCP_140",
+    "text": "In its sustainability efforts, UCP emphasises global welfare and aligns with the United Nations Sustainable Development Goals (SDGs). Key areas include academic programmes, research initiatives, industry collaboration and community engagement. For Good Health & Well\u2011being, UCP maintains a smoke\u2011free, drug\u2011free campus, runs health awareness programmes, collaborates with health authorities, organises AIDS prevention and blood donation drives and provides accessible accommodation with ramps, wheelchairs and lifts. A mental health community camp was held at General Hospital to discuss social, economic and cultural determinants of health\u3010438653772051491\u2020L144-L159\u3011. UCP also pursues Clean Water & Sanitation by installing reverse\u2011osmosis plants and banning sugary drinks\u3010438653772051491\u2020L203-L211\u3011, and Affordable & Clean Energy by integrating solar panels that generate around 512\u00a0kWh and cover roughly 75\u00a0% of campus consumption\u3010438653772051491\u2020L214-L218\u3011. The university promotes gender equality by supporting women entrepreneurs (e.g., Takhleeq x Startup\u00a0Grind Lahore event with 45 female entrepreneurs) and by enforcing merit\u2011based admissions\u3010438653772051491\u2020L186-L200\u3011.",
+    "source": "sustainability_blog"
+  },
+  {
+    "id": "UCP_141",
+    "text": "The Student Services Center (SSC) at UCP acts as a one\u2011stop service arena for student queries and facilitation.  It provides quality academic and non\u2011academic services under one roof so students don\u2019t have to run between different offices.  The SSC works with administrative and academic departments to provide specialist and general advice and aims to create a friendly, supportive environment that bridges students and the university\u2019s administration\u3010610926873674043\u2020L74-L90\u3011.  It encourages students to stay in touch for updates and lists contact details: 1\u00a0Khayaban\u2011e\u2011Jinnah Road, Johar Town, Lahore, phone +92\u201142\u201135880007 / +92\u201180\u2011000\u2011827 (9\u00a0am\u20135\u00a0pm), fax +92\u201142\u201135954892 and email info@ucp.edu.pk\u3010610926873674043\u2020L84-L126\u3011.",
+    "source": "Student Services Center"
+  },
+  {
+    "id": "UCP_142",
+    "text": "UCP\u2019s FAQ page answers common admission and portal questions.  Candidates can view their test/interview letter after paying and verifying the Rs\u00a01,500 application processing fee\u301040674904928099\u2020L74-L88\u3011.  When attaching degrees, follow the instructions linked on the portal\u301040674904928099\u2020L79-L82\u3011.  For O/A\u2011level results across multiple pages, attach the page with maximum major grades and preferably include the IBCC equivalence\u301040674904928099\u2020L84-L89\u3011.  Fee verification can take 2\u20133 working days when paid at Albaraka Bank; candidates can email a copy of the paid challan to admissions@ucp.edu.pk\u301040674904928099\u2020L91-L95\u3011.  If the tuition fee challan is missing, students should visit the SSC for document verification\u301040674904928099\u2020L97-L101\u3011.  If signup credentials aren\u2019t received via email, check the spam folder or sign up using a Google account.  Applicants can only apply to one Masters programme because each masters is specialised.  URLs should be typed in the browser address bar instead of the search engine\u301040674904928099\u2020L113-L115\u3011.  UCP does not require printing the admission form.  Timetables appear on the student portal once classes are scheduled\u301040674904928099\u2020L121-L124\u3011.  Weekend programmes include the MBA Executive and M.Phil.\u00a0Media & Communication; other programmes have weekday classes\u301040674904928099\u2020L126-L129\u3011.  UCP charges tuition fees per semester, payable in two instalments\u301040674904928099\u2020L131-L134\u3011.  A regular semester lasts about 32\u00a0weeks or four months\u301040674904928099\u2020L135-L137\u3011.",
+    "source": "FAQs page"
+  },
+  {
+    "id": "UCP_143",
+    "text": "The academic calendar outlines key dates for Semester\u00a0Fall\u00a02025 and Summer\u00a02025.  For Fall\u00a02025, orientation for new students runs 24\u201326\u00a0September, registration/add\u2013drop for ongoing students ends 26\u00a0September, classes commence 29\u00a0September, mid\u2011term exams are scheduled 24\u201329\u00a0November (week\u00a09), the last date to withdraw courses is 5\u00a0December, classes end 23\u00a0January\u00a02026 (week\u00a017) and final exams take place 26\u00a0January\u20134\u00a0February\u00a02026 with grade notification on 10\u00a0February\u00a02026\u3010238063628070229\u2020L74-L102\u3011.  Public holidays such as Allama Iqbal Day (9\u00a0Nov\u00a02025), Quaid\u2011e\u2011Azam Day (25\u00a0Dec\u00a02025) and Kashmir Day (5\u00a0Feb\u00a02026) are observed.  For Summer\u00a02025, classes begin 28\u00a0July, registration/add\u2013drop for ongoing students and payment of dues close on 25\u00a0July; mid\u2011term exams occur 21\u201323\u00a0August and final exams 18\u201320\u00a0September\u3010238063628070229\u2020L113-L134\u3011.  Results are submitted on 23\u00a0September with grade notification on 24\u00a0September, followed by a semester break 22\u201327\u00a0September and the start of Fall\u00a02025 classes on 29\u00a0September\u3010238063628070229\u2020L135-L145\u3011.",
+    "source": "Academic Calendar"
+  },
+  {
+    "id": "UCP_144",
+    "text": "The Student Handbook explains UCP\u2019s fee refund policy for new admissions.  Admission fees are non\u2011refundable.  Tuition fees are fully refundable if a refund request is submitted before or during the first week of classes; 50% tuition is refundable if the request is made in the second week; no refund is given if the request is made after the second week\u3010955484050388539\u2020L784-L804\u3011.  If the university cancels an advertised programme, 100% of tuition and admission fees are refunded\u3010955484050388539\u2020L805-L808\u3011.  Refund requests must be made on the prescribed Fee Refund Form available from the Admissions Office\u3010955484050388539\u2020L810-L814\u3011.",
+    "source": "Student Handbook \u2013 Fee Refund Policy"
+  },
+  {
+    "id": "UCP_145",
+    "text": "UCP\u2019s attendance policy requires students to attend at least 80% of classes and labs.  Students missing more than 20% of classes are withdrawn from the course, with no transfer of dues or tuition fee\u3010955484050388539\u2020L892-L899\u3011.  Attendance is counted from the first day of classes; late registration counts as absence and may lead to insufficient attendance\u3010955484050388539\u2020L901-L908\u3011.  Four absences are treated as leave and incur no fine, but fines may apply beyond that; after six absences the course is automatically withdrawn with a W grade on the transcript\u3010955484050388539\u2020L910-L918\u3011.  Students delaying registration and fee payment are marked absent, which can lead to being barred from the final exam\u3010955484050388539\u2020L901-L909\u3011.",
+    "source": "Student Handbook \u2013 Attendance Policy"
+  },
+  {
+    "id": "UCP_146",
+    "text": "UCP\u2019s evaluation system gives instructors discretion over the weighting of assessments but provides a broad guideline: quizzes, assignments, projects and class participation collectively count for 30\u201340% of the grade; mid\u2011term examinations count for about 20%; and final examinations count for 40\u201350%\u3010955484050388539\u2020L936-L947\u3011.  Mid\u2011term and final exams are administered by the Controller of Examinations Office, which circulates the date sheet.  Exams conducted without COE approval are not valid\u3010955484050388539\u2020L847-L854\u3011.",
+    "source": "Student Handbook \u2013 Evaluation System"
+  },
+  {
+    "id": "UCP_147",
+    "text": "UCP allows transfer of credits subject to strict conditions.  The transfer institution must be regionally accredited and HEC\u2011approved, and the course must match UCP\u2019s in content and level.  Only courses with grades C+ or higher (undergraduate) or B\u2011 or higher (graduate) are eligible\u3010955484050388539\u2020L985-L1014\u3011.  Credits accepted appear on the UCP transcript without grades and may not exceed 50% of the program\u2019s total credit hours\u3010955484050388539\u2020L1015-L1023\u3011.  Students expelled from other institutions are not considered for credit transfer\u3010955484050388539\u2020L1024-L1027\u3011.",
+    "source": "Student Handbook \u2013 Transfer of Credits"
+  },
+  {
+    "id": "UCP_148",
+    "text": "Final term examinations at UCP occur after 16\u00a0weeks of teaching.  They are usually three hours long and scheduled by the Controller of Examinations Office; only students who meet attendance requirements and have cleared their semester dues may sit for the exam\u3010955484050388539\u2020L1030-L1047\u3011.  There is ordinarily no provision for retaking the final exam; exceptions require documentation and approval from the COE and a relevant committee\u3010955484050388539\u2020L1048-L1056\u3011.  The summer semester is used for makeup or deficiency courses; a 3\u2011credit theory course or 1\u2011credit lab can be completed in eight weeks.  Students may take up to 8 credits in summer, and course drops are not allowed\u3010955484050388539\u2020L1059-L1083\u3011.",
+    "source": "Student Handbook \u2013 Final Exams & Summer Semester"
+  },
+  {
+    "id": "UCP_149",
+    "text": "UCP\u2019s Rules & Regulations 2025 specify admission eligibility criteria.  Candidates for undergraduate programmes must have at least 45% marks (Intermediate/A\u2011Levels).  For Engineering and Pharmacy programmes the minimum is 60% and for BS Computer Science, Software Engineering and Data Sciences it is 50%.  For MS/MPhil admission, applicants need a 16\u2011year bachelor\u2019s degree with a minimum 2.0/4.0 CGPA or 50% marks; PhD applicants need an 18\u2011year master\u2019s degree with a 3.0/4.0 CGPA or 60% marks\u3010785603408839980\u2020L76-L87\u3011.  Admissions are granted on merit after meeting eligibility criteria\u3010785603408839980\u2020L88-L89\u3011.",
+    "source": "Rules & Regulations 2025 \u2013 Admission Eligibility"
+  },
+  {
+    "id": "UCP_150",
+    "text": "The registration process at UCP requires first\u2011semester courses to be assigned by the Dean\u2019s Office, while in subsequent semesters students register themselves with advisor approval.  Registration dates are announced in advance; students must register and pay dues during these dates.  The portal enforces prerequisites, and students may revise their registration before classes start.  A typical academic load is 15\u201318 credit hours; with departmental permission, undergraduates may take up to 21 credit hours\u3010785603408839980\u2020L114-L130\u3011.",
+    "source": "Rules & Regulations 2025 \u2013 Registration Process"
+  },
+  {
+    "id": "UCP_151",
+    "text": "UCP provides various scholarships and sets continuation conditions.  Scholarships are initially awarded based on the applicant\u2019s previous academic credentials and may include kinship, PGC, alumni, merit, sports, need\u2011based, talent and disabled\u2011person categories\u3010785603408839980\u2020L160-L186\u3011.  To continue receiving a scholarship, students must meet conditions related to their CGPA and academic load; failure to comply leads to suspension of the scholarship for at least one semester\u3010785603408839980\u2020L162-L173\u3011.",
+    "source": "Rules & Regulations 2025 \u2013 Scholarships"
+  },
+  {
+    "id": "UCP_152",
+    "text": "Students wishing to withdraw from a course must submit a written request to the Dean or Head of Department within the dates published by the Registrar\u2019s Office.  If approved, a W grade appears on the transcript and fees for that course are not refunded or carried forward\u3010785603408839980\u2020L283-L289\u3011.  Students seeking a semester leave or freezing must obtain written permission from the Dean\u2019s Office during the first week of the semester; without permission, they will be dropped from the university roll and treated as inactive.  Absence for two consecutive semesters results in cancellation of admission and re\u2011admission requires paying the admission fee again\u3010785603408839980\u2020L291-L302\u3011.",
+    "source": "Rules & Regulations 2025 \u2013 Course Withdrawal & Semester Leave"
+  },
+  {
+    "id": "UCP_153",
+    "text": "UCP\u2019s career placement cell provides comprehensive support to help students secure jobs.  The career services office offers proper career counselling to help students choose career paths based on their abilities and interests.  It bridges the gap between students and the job market by guiding them about market realities and matching them with appropriate roles\u3010278886600316635\u2020L135-L145\u3011.  The alumni relations vertical builds connections between current students and alumni to provide mentorship and job opportunities\u3010278886600316635\u2020L149-L156\u3011.  The office also prepares students for job interviews by developing communication and self\u2011presentation skills\u3010278886600316635\u2020L162-L170\u3011.  Students can contact the career services office for guidance via email at cso@ucp.edu.pk\u3010278886600316635\u2020L182-L189\u3011.",
+    "source": "Career Placement Cell Blog"
+  },
+  {
+    "id": "UCP_154",
+    "text": "The Department of Student Affairs oversees the Student Council, which organizes and manages extra\u2011 and co\u2011curricular activities for the student body through various societies.  These societies are managed by students under a faculty patron and promote education, socialization, entrepreneurship, social causes and the arts.  Participation allows students to pursue their passions and develop skills outside the classroom while working with university management and student leaders\u3010706421778713757\u2020L74-L82\u3011.",
+    "source": "Department of Student Affairs"
+  },
+  {
+    "id": "UCP_155",
+    "text": "UCP\u2019s Psychology Department promotes mental health awareness through events such as the 2017 Mental Health Camp.  The camp was organised by MS Clinical Psychology students under faculty supervision and offered tests for self\u2011compassion, self\u2011esteem, exam anxiety, social anxiety and personality assessment.  Professional counsellors provided on\u2011the\u2011spot counselling to students discussing personal issues.  Approximately 350 students registered for the counselling centre, which gave them an opportunity to discuss their issues with clinical psychologists\u3010229733593231711\u2020L110-L123\u3011.",
+    "source": "Mental Health Camp Event"
+  },
+  {
+    "id": "UCP_156",
+    "text": "UCP adheres to the Higher Education Commission\u2019s Policy on Protection Against Sexual Harassment in Higher Education Institutions.  The policy affirms the right of every member of the university community to study and work in an environment free from sexual harassment and makes such conduct a punishable offence.  Sexual harassment includes unwelcome sexual advances, requests for favours or other verbal, written or physical conduct of a sexual nature; it can involve overt or subtle behaviours, non\u2011consensual contact, sexual exploitation or other actions that create an intimidating, hostile or offensive environment\u3010159946260104328\u2020L50-L92\u3011\u3010159946260104328\u2020L120-L159\u3011.  The policy outlines the principles, prohibited conduct, jurisdiction, designated resources for reporting, investigation procedures, penalties and educational measures to prevent harassment\u3010159946260104328\u2020L47-L104\u3011.",
+    "source": "HEC Sexual Harassment Policy"
+  },
+  {
+    "id": "UCP_157",
+    "text": "The Exam Office page provides downloadable forms and guidelines for students.  Forms available include the guideline for students, transcript issuance proforma (white), degree issuance proforma (white), proforma for change of name/father\u2019s name or date of birth (yellow), thesis submission form, proforma for urgent degree issuance (red), proforma for rectification of transcript title (green) and a voucher for photograph\u3010405236334384155\u2020L74-L87\u3011.  These resources help students handle exam\u2011related administrative tasks and can be downloaded from the Exam Office web page.",
+    "source": "Exam Office"
+  },
+  {
+    "id": "UCP_158",
+    "text": "For problems related to courses that students have already enrolled in, the proper point of contact is the Registrar Office located in Building A.  Students should visit the Registrar Office to resolve issues such as course registration adjustments, enrollment errors, or academic record updates (user\u2011provided information).",
+    "source": "User guidance"
+  },
+  {
+    "id": "UCP_159",
+    "text": "Students looking for any building or location on campus should use the Campus Map feature available in the Ask\u2011UCP app.  The map helps you locate classrooms, offices, labs, hostels, cafeterias and other facilities (user\u2011provided information).",
+    "source": "User guidance"
+  },
+  {
+    "id": "UCP_160",
+    "text": "When submitting tuition fee or challan forms, students can choose from two bank locations on campus: one bank branch is inside the Admissions Office and another branch is near the Food Street (user\u2011provided information).  These branches accept fee deposits and issue receipts to students.",
+    "source": "User guidance"
+  },
+  {
+    "id": "UCP_161",
+    "text": "Volunteers in Service (VIS) is a mandatory requirement for degree completion at UCP.  Students must participate in the VIS program and complete the required number of service hours before they can graduate (user\u2011provided information).",
+    "source": "User guidance"
+  },
+  {
+    "id": "UCP_162",
+    "text": "Elevators are available in Buildings B and C for student use; however, Building A does not offer elevator access for students.  Students should use staircases in Building A and plan accordingly when moving between floors (user\u2011provided information).",
+    "source": "User guidance"
+  },
+  {
+    "id": "UCP_163",
+    "text": "To view your test or interview letter on the admission portal, you must pay the Rs 1500 admission application processing fee and wait for it to be verified.",
+    "source": "FAQs page"
+  },
+  {
+    "id": "UCP_164",
+    "text": "If your degrees are not attaching in the academic section, follow the degree attachment process provided on the UCP website.",
+    "source": "FAQs page"
+  },
+  {
+    "id": "UCP_165",
+    "text": "For O/A\u2011levels results that are spread over multiple pages, attach the page with the highest major grades and include your IBCC equivalence certificate.",
+    "source": "FAQs page"
+  },
+  {
+    "id": "UCP_166",
+    "text": "If your admission application processing fee isn\u2019t verified, automatic verification takes 2\u20133 working days when paid via Albaraka Bank; you can email a copy of the paid challan to admissions@ucp.edu.pk for assistance.",
+    "source": "FAQs page"
+  },
+  {
+    "id": "UCP_167",
+    "text": "If your tuition fee challan isn\u2019t uploaded on the portal, visit the Student Services Centre to verify documents and obtain your fee challan.",
+    "source": "FAQs page"
+  },
+  {
+    "id": "UCP_168",
+    "text": "If signup credentials aren\u2019t received (e.g., using a Yahoo ID), check your spam folder and consider signing up with a Google account.",
+    "source": "FAQs page"
+  },
+  {
+    "id": "UCP_169",
+    "text": "There is no preference for Master\u2019s programmes because each is a specialized degree; applicants may apply only to one programme relevant to their background.",
+    "source": "FAQs page"
+  },
+  {
+    "id": "UCP_170",
+    "text": "To access the URL etest@ucp.edu.pk, paste it directly into your browser\u2019s address bar rather than searching for it.",
+    "source": "FAQs page"
+  },
+  {
+    "id": "UCP_171",
+    "text": "UCP does not require you to print and submit the admission form manually.",
+    "source": "FAQs page"
+  },
+  {
+    "id": "UCP_172",
+    "text": "Students can view their timetable on the portal once classes are scheduled.",
+    "source": "FAQs page"
+  },
+  {
+    "id": "UCP_173",
+    "text": "UCP offers weekend classes only for the MBA Executive and M.Phil. Media & Communication programmes; all other programmes are held on weekdays.",
+    "source": "FAQs page"
+  },
+  {
+    "id": "UCP_174",
+    "text": "UCP charges tuition on a per\u2011semester basis and divides it into two instalments.",
+    "source": "FAQs page"
+  },
+  {
+    "id": "UCP_175",
+    "text": "A regular semester at UCP typically lasts 32 weeks or four months.",
+    "source": "FAQs page"
+  },
+  {
+    "id": "UCP_176",
+    "text": "Dr. Hammad Naveed serves as Pro-Rector at the University of Central Punjab. He earned a Ph.D. in Bioinformatics from the University of Illinois at Chicago, completed post-doctoral research at the CAS-MPG Partner Institute for Computational Biology in China and at King Abdullah University of Science and Technology in Saudi Arabia, served as a Research Assistant Professor at the Toyota Technological Institute at Chicago from 2014 to 2017, and led FAST Lahore to become a premier campus, strengthening industry collaborations and educational quality.",
+    "source": "announcement"
+  },
+  {
+    "id": "UCP_177",
+    "text": "Dr. Faisal Mustafa is Provost and Dean of Business at the University of Central Punjab. He has an 18-year international career spanning roles as professor, data scientist, business-intelligence consultant and IT transformation director. He earned his Ph.D. from the University of Huddersfield (UK) and focuses his research on technology entrepreneurship, business intelligence, semantic web services, and business simulation modeling. He champions multidisciplinary curricula and inclusive, participatory learning.",
+    "source": "journal"
+  },
+  {
+    "id": "UCP_178",
+    "text": "Dr. Fawad Baig currently holds the additional charge as Dean of the Faculty of Media and Mass Communication at UCP. He completed his Ph.D. in Media & Communication from Technische Universit\u00e4t Dresden with magna cum laude and earned a Ph.D. in Computer Science from the University of Education, Lahore. He has presented research at international conferences, won the Naomi C. Turner Prize for best paper, authored over 17 publications, serves as Pakistan\u2019s principal investigator in the Journalistic Role Performance project, and previously spent fourteen years as a producer at Pakistan Television before returning to academia.",
+    "source": "member-page"
+  },
+  {
+    "id": "UCP_179",
+    "text": "Prof. Dr. Taimoor-ul-Hassan is a senior professor of media studies at UCP and a pioneer of media education in Pakistan. With over 35 years of teaching and administrative experience, he has authored a seminal book on Pakistani media and served as dean at Beaconhouse National University before joining UCP in 2019. He chairs curriculum committees, mentors doctoral scholars, and maintains professional links with media organizations.",
+    "source": "member-page"
+  },
+  {
+    "id": "UCP_180",
+    "text": "Dr. Hadia Awan is dean of the Faculty of Law at UCP. A former civil judge and principal of Punjab Law College, she oversees UCP\u2019s law programmes and teaches judicial training courses. She holds a Ph.D. in Peace & Conflict Studies (2019) and an LL.M in International Dispute Resolution (2007). Selected by the British Council and U.S. programs for law teaching and leadership, she has served as dean since 2017 and previously led Punjab Law College (2006-17).",
+    "source": "law-faculty"
+  },
+  {
+    "id": "UCP_181",
+    "text": "Prof. Dr. Barkat Ali is a specialist in constitutional and administrative law. With over 25 years of teaching experience, his research focuses on public-interest litigation and constitutional mandates. He holds a Ph.D. from the International Islamic University Islamabad (2020) and an LL.M in constitutional law from University of the Punjab (2008). He progressed from lecturer to professor at Islamia University Bahawalpur, serving as department head.",
+    "source": "law-faculty"
+  },
+  {
+    "id": "UCP_182",
+    "text": "Muhammad Aamer Kamran is an assistant professor of law at UCP with 16 years of teaching and legal experience. He coordinates programmes and examinations and focuses on corporate and criminal law. He holds an LL.M in commercial law from BPP Law School (2015) alongside multiple postgraduate diplomas and master\u2019s degrees and has held lecturer roles at various law colleges.",
+    "source": "law-faculty"
+  },
+  {
+    "id": "UCP_183",
+    "text": "Shaista Anwar serves as an assistant professor and the Faculty Industry Liaison Officer for UCP\u2019s law faculty. She manages industry linkages, co-edits the UCP Journal of Law, and researches jurisprudence, international law, and legal theory. She holds an LLM in international law (2017) and an LL.B (2003) and has coordinated UCP\u2019s LL.B programme and served on advisory committees.",
+    "source": "law-faculty"
+  },
+  {
+    "id": "UCP_184",
+    "text": "Ammara Afzal Siddiqui is an assistant professor of law at UCP. A long-serving educator and examination coordinator, she encourages moot courts and debates. Her research covers tort law, gender and law, and legal English. She earned an LL.M in business law from Girne American University (2005) and an LL.B from University of the Punjab (2002) and has served at UCP since 2006 in teaching and administrative roles.",
+    "source": "law-faculty"
+  },
+  {
+    "id": "UCP_185",
+    "text": "Freeha Khaled is an assistant professor of law specializing in international law. She holds an LL.M in international law (2019), an LL.B (2011), and commerce degrees. Since 2016 she has taught at UCP and previously worked as a visiting lecturer and legal associate. Her publications address reproductive rights, educational technology in the Muslim world, and human-rights compliance in conflict situations.",
+    "source": "law-faculty"
+  },
+  {
+    "id": "UCP_186",
+    "text": "Prof. Dr. Mahtab Ahmad Khan is dean of UCP\u2019s Faculty of Pharmaceutical Sciences. A pharmacology expert and translational neuroscience researcher, he emphasises outcome-based education, curriculum reform, and international collaborations. He earned a Ph.D. in Pharmacology from the University of L\u00fcbeck (2015), an M.Phil in Pharmacology (2006), and a B.Pharmacy (1998) and previously taught at UCP and University of Lahore.",
+    "source": "pharmaceutical-faculty"
+  },
+  {
+    "id": "UCP_187",
+    "text": "Dr. Muhammad Amjad Iqbal is dean of UCP\u2019s Faculty of Information Technology & Computer Science. An expert in machine learning, fuzzy logic, and data mining, he holds a Ph.D., M.Phil., and MSc in Computer Science. He has served as faculty member and researcher and has published work on fuzzy set theory, decision support systems, and data mining.",
+    "source": "it-faculty"
+  },
+  {
+    "id": "UCP_188",
+    "text": "Dr. Mohsin Ashraf heads the Department of Computer Science at UCP. His expertise spans machine learning, computer vision, and data mining. He earned a Ph.D. in Computer Science (2021), an MS (2015), and a BS (2004). He has taught at UCP and the University of Lahore and researches deep-learning, object detection, and algorithm optimisation.",
+    "source": "it-faculty"
+  },
+  {
+    "id": "UCP_189",
+    "text": "Dr. Abbas Khalid, professor and associate dean, specialises in communication systems, wireless networks, and the Internet of Things. He holds a Ph.D. in Communication Systems from Lancaster University (2012) and an MS in Computer Science from UCP (2005) and has worked at multiple universities and served on national committees. His publications examine multiple access techniques, power line communications, and IoT architectures.",
+    "source": "it-faculty"
+  },
+  {
+    "id": "UCP_190",
+    "text": "Dr. Muhammad Rizwan Shad is dean of UCP\u2019s Faculty of Engineering. A mechanical engineer with expertise in rotor dynamics and applied mechanics, he champions outcome-based education. He obtained a Ph.D. from INSA Toulouse, France (2011) and MSc and BSc degrees in Mechanical Engineering and has held roles as research scholar at INSA Toulouse and positions at SUPARCO. His research covers vibration analysis, rotor dynamics, and mechanical design.",
+    "source": "engineering-faculty"
+  },
+  {
+    "id": "UCP_191",
+    "text": "Dr. Fesal Toosy is an associate professor and head of electrical engineering at UCP. Known for introducing robotics competitions and modern curricula, he holds a Ph.D. in Electrical Engineering from UCP (2021), an MS from the University of Southern California (2001), and a BS from UET Lahore (1999). He has taught at UCP since 2003 and researches multichannel audio, robotics, and signal processing.",
+    "source": "engineering-faculty"
+  },
+  {
+    "id": "UCP_192",
+    "text": "Dr. H. Rizwana Kausar serves as dean of UCP\u2019s Faculty of Science & Technology. An applied mathematician and cosmologist, she is known for her work on general relativity and cosmology and for establishing research centres at UCP. She completed a post-doctoral fellowship at the University of Zurich, holds a Ph.D. in Applied Mathematics, and earned M.Phil. and MSc degrees from the University of the Punjab. She has decades of teaching experience and has published widely on gravitational physics and cosmological models.",
+    "source": "science-faculty"
+  },
+  {
+    "id": "UCP_193",
+    "text": "Dr. Shazia Hasan heads the Department of Psychology at UCP. A clinical psychologist, she established the MS and PhD programmes and directs training clinics and research labs. She earned a Ph.D. in Clinical Psychology (University of Karachi, 2002), an M.Phil. and post-magisterial diploma, and leads research in psychotherapy, mental health, and psychometrics while supervising graduate research.",
+    "source": "psychology-faculty"
+  },
+  {
+    "id": "UCP_194",
+    "text": "Prof. Dr. Khalid Manzoor Butt is dean of UCP\u2019s Faculty of Languages & Literature (Humanities). A political scientist and academic leader, he previously served at GC University and researches politics, history, and media. He holds a Ph.D. in Political Science (2010) and earlier degrees from the University of the Punjab and has acted as chairperson and campus director. He has authored books and articles on South Asian politics and governance.",
+    "source": "languages-faculty"
+  },
+  {
+    "id": "UCP_195",
+    "text": "Dr. Tahir Saleem heads the Department of Linguistics at UCP. A linguist specialising in phonetics, sociolinguistics, and translation, he joined UCP as professor in 2024 and became department head in 2025. He holds a Ph.D. in Linguistics (2020), an MS in Applied Linguistics (2014), and an MA in English (2007) and researches phonetic variation, sociophonetics, and second-language acquisition.",
+    "source": "languages-faculty"
+  },
+  {
+    "id": "UCP_196",
+    "text": "The Student Services Center (SSC) serves as the primary point of contact for students during their time at UCP. It provides academic and non\u2011academic services under one roof, so students don\u2019t have to visit multiple offices. SSC staff offer general advice and specialist support and act as a bridge between students and the university\u2019s administration. The centre aims to create a friendly and supportive environment and to help students enjoy campus life by meeting the challenges they may face during their studies\u3010609886321011454\u2020L74-L90\u3011.",
+    "source": "student_services_center"
+  },
+  {
+    "id": "UCP_197",
+    "text": "UCP supports a vibrant extracurricular scene through numerous societies and clubs. These organizations range from innovation and entrepreneurship, welfare, environmental protection and gaming clubs to cultural and heritage societies, Islamic guidance, and international diplomacy. There are also special\u2011interest groups for automobiles (Motorhead Society), pets (Paws & Claws), fine arts (Takhleeqkar), adventure tourism, photography and many more. Each society provides opportunities for students to develop skills, cultivate friendships and give back to the community\u3010622739267321679\u2020L190-L206\u3011.",
+    "source": "societies_and_clubs"
+  },
+  {
+    "id": "UCP_198",
+    "text": "UCP operates a Chinese Language Lab to support students preparing for the China\u2013Pakistan Economic Corridor (CPEC). The university initiated Chinese language courses in collaboration with the Pak\u2011China Chamber of Commerce & Industry and Chinese universities. The Chinese Consulate General donated a well\u2011equipped lab that offers Level\u2011I and Level\u2011II Chinese language certification according to the Hanyu Shuiping Kaoshi (HSK) standards\u3010835029197067688\u2020L131-L139\u3011.",
+    "source": "facilities_chinese_lab"
+  },
+  {
+    "id": "UCP_199",
+    "text": "The Media Hub within the Faculty of Media and Communication Studies houses a state\u2011of\u2011the\u2011art production house, a university radio station and non\u2011linear editing labs. The production house is equipped with modern technology to give students hands\u2011on experience in television and cinema production\u3010835029197067688\u2020L79-L83\u3011. The FM radio station (FM\u00a092.6 UCP Ki Dunya) airs 24/7 educational and infotainment programmes and trains students as radio jockeys, producers and anchors\u3010835029197067688\u2020L85-L95\u3011. The non\u2011linear editing lab has forty specialized computers with the latest software for film editing, animation, graphic design and visual communication projects\u3010835029197067688\u2020L97-L104\u3011.",
+    "source": "facilities_media_hub"
+  },
+  {
+    "id": "UCP_200",
+    "text": "UCP\u2019s campus includes two air\u2011conditioned cafeterias, a lively food street and an executive lounge for faculty. The cafeterias provide snacks and meals throughout the day, while the food street offers canteen meals, barbecue and traditional snacks in a casual environment. Prices are subsidized to ensure affordability and the university strives to maintain high hygiene standards\u3010835029197067688\u2020L200-L210\u3011.",
+    "source": "facilities_cafeteria"
+  },
+  {
+    "id": "UCP_201",
+    "text": "UCP runs a fleet of twelve comfortable buses that follow eight routes across Lahore every hour. The transport office provides safe and affordable transport for students and faculty at nominal rates\u3010835029197067688\u2020L231-L237\u3011.",
+    "source": "facilities_shuttle_service"
+  },
+  {
+    "id": "UCP_202",
+    "text": "The purpose\u2011built auditorium at UCP acts as the campus nerve centre for events. It is equipped with advanced lighting and sound systems and seats approximately 400 people. The auditorium hosts conferences, speaker sessions, musical and theatrical performances and national television recordings, adhering to international standards\u3010835029197067688\u2020L269-L277\u3011.",
+    "source": "facilities_auditorium"
+  },
+  {
+    "id": "UCP_203",
+    "text": "UCP\u2019s sports complex promotes physical well\u2011being with separate gymnasiums for male and female students. It includes a 25\u2011yard, all\u2011weather swimming pool with four lanes (3\u20136\u00a0ft deep) and provides recreational facilities such as table tennis and foosball\u3010835029197067688\u2020L160-L165\u3011.",
+    "source": "facilities_sports_complex"
+  },
+  {
+    "id": "UCP_204",
+    "text": "The UCP library complements classroom teaching by providing around 40,000 textbooks and 2,350 reference books, including dictionaries, encyclopedias and Islamic collections. It offers electronic access to databases such as IEEE, JSTOR, McGraw Hill, Project MUSE, Taylor & Francis and Wiley\u2011Blackwell journals, along with HEC online resources. The library provides comfortable spaces for individual and group study\u3010835029197067688\u2020L291-L303\u3011.",
+    "source": "facilities_library"
+  },
+  {
+    "id": "UCP_205",
+    "text": "UCP offers state\u2011of\u2011the\u2011art laboratories across engineering, IT, pharmacy and science disciplines. These labs provide hands\u2011on experience and experimental learning to complement classroom instruction\u3010835029197067688\u2020L367-L370\u3011.",
+    "source": "facilities_laboratories"
+  },
+  {
+    "id": "UCP_206",
+    "text": "A dedicated girls\u2019 hostel on campus provides safe and comfortable accommodation for female students. Facilities include furnished rooms, dining areas and recreational spaces, though detailed amenities are described on the respective accommodation page (not accessible)\u3010835029197067688\u2020L334-L344\u3011.",
+    "source": "facilities_girls_hostel"
+  },
+  {
+    "id": "UCP_207",
+    "text": "Ideas Conclave is a university initiative launched in 2020 to create a platform for dialogues between students and leading thinkers, writers, academics and professionals. The series hosts conversations, workshops and roundtables on topics such as intercontinental history, South\u2011Asian fiction, local government, sustainable cities, constitutionalism, entrepreneurship, climate change and arts. Since its inaugural session in October 2020, Ideas Conclave has organized more than seventeen panel discussions, book launches and interviews with guests from over ten countries\u3010471732857194774\u2020L75-L99\u3011.",
+    "source": "initiatives_ideas_conclave"
+  },
+  {
+    "id": "UCP_208",
+    "text": "Ride with Pride is UCP\u2019s initiative to empower female students by enabling them to commute independently. The program issues scooters equipped with tracking systems and helmets, making it as easy to borrow a two\u2011wheeler as checking out a library book. It aims to solve commute issues for women and encourages them to participate in daily activities with confidence\u3010471732857194774\u2020L117-L126\u3011.",
+    "source": "initiatives_ride_with_pride"
+  },
+  {
+    "id": "UCP_209",
+    "text": "The Career Services Office (CSO) prepares students and alumni for life beyond university by helping them explore employment opportunities, pursue further education and build connections. Its structure includes three verticals: placements, continuing education and alumni relations. The alumni relations vertical leverages connections to provide mentorship, guidance and placement opportunities and strengthens the alumni network\u3010936966549023621\u2020L75-L87\u3011.",
+    "source": "departments_career_services_office"
+  },
+  {
+    "id": "UCP_210",
+    "text": "The Registrar Office maintains UCP\u2019s official academic records and ensures adherence to academic policies and standards. Its mission is to foster student progress by maintaining accurate, secure and confidential records while providing exemplary service to students, faculty, staff, alumni and families. Responsibilities include registration services, enrollment and degree verification, class scheduling, grade processing and degree audits. The office values accuracy, clarity, respect for individual dignity and responsiveness\u301062813686501944\u2020L79-L117\u3011.",
+    "source": "departments_registrar_office"
+  },
+  {
+    "id": "UCP_211",
+    "text": "UCP\u2019s Quality Enhancement Cell (QEC) is headed by a dean and reports directly to the Vice Chancellor/Rector. QEC promotes public confidence that the quality and standards of the university\u2019s degrees are maintained. It develops quality assurance processes and evaluation methods to ensure academic standards, works with HEC and collects data for analysis. QEC also reviews academic affiliations and supports planning, assessment and improvement of teaching and learning\u3010917258158963171\u2020L60-L98\u3011.",
+    "source": "departments_quality_enhancement_cell"
+  },
+  {
+    "id": "UCP_212",
+    "text": "The Office of Research, Innovation and Commercialization (ORIC) maintains a database of all research activities, including existing and new projects, publications, patents and research events. ORIC assists faculty in securing research funds, coordinates with HEC and international agencies, organizes entrepreneurship training, and maintains a business incubator called TECH\u00a02.0. It has organized conferences, competitions and training programmes, supported the establishment of the National Incubation Centre in Lahore, and collaborates with industry and government bodies to promote entrepreneurship\u301092577720319734\u2020L82-L107\u3011.",
+    "source": "departments_oric"
+  },
+  {
+    "id": "UCP_213",
+    "text": "The UCP International Office (IO) coordinates and expands the university\u2019s international engagement in teaching and research. It liaises with global partners, manages inbound and outbound exchange programs, supports international students on campus and collaborates with faculties to develop opportunities for international research and education. The IO aims to increase UCP\u2019s global visibility by promoting international partnerships, facilitating cross\u2011cultural understanding and providing support for students and scholars seeking international experiences\u3010230506510698395\u2020L87-L134\u3011.",
+    "source": "departments_international_office"
+  },
+  {
+    "id": "UCP_214",
+    "text": "The Directorate of Research under ORIC aims to invigorate UCP\u2019s research culture among graduate and postgraduate students and faculty. It manages the university\u2019s research efforts and ensures that research activities align with educational, social and economic priorities",
+    "source": "departments"
+  },
+  {
+    "id": "UCP_215",
+    "text": "ORIC\u2019s Industrial Linkages department promotes public\u2011private partnerships, connects university researchers with corporate sector needs, creates opportunities for applied research and explores technology transfer and commercialization, including incubators and research parks",
+    "source": "departments"
+  },
+  {
+    "id": "UCP_216",
+    "text": "Takhleeq, UCP\u2019s business incubator under ORIC, is a hub for creativity, innovation and entrepreneurship. It organizes events and lectures on entrepreneurship, builds national and international linkages and offers incubation programmes that help participants start, run and grow businesses through counselling, workshops and legal guidance",
+    "source": "departments"
+  },
+  {
+    "id": "UCP_217",
+    "text": "The Office of Sustainability makes UCP an SDG\u2011engaged university by facilitating sustainability\u2011focused research, providing learning opportunities that create social impact, developing external relations for a sustainable future and creating policies for responsible campus operations. The office encourages a community that cares about global issues and takes action, linking disciplines and learning through practice",
+    "source": "departments"
+  },
+  {
+    "id": "UCP_218",
+    "text": "The Volunteers in Service (VIS) programme shapes students into responsible citizens by requiring every student to complete volunteer work before graduation with VIS partners such as NGOs, hospitals and schools. VIS partners include local and international organizations, offering students diverse volunteer experiences",
+    "source": "departments"
+  },
+  {
+    "id": "UCP_219",
+    "text": "UCP\u2019s Marketing & Communications Department supports the university\u2019s goal of global recognition by providing strategic marketing and media guidance. It advocates best practices in internal communications and leads development of strategies and tools that strengthen the UCP brand and reputation. The department comprises creative services, digital communications and marketing & branding teams",
+    "source": "departments"
+  },
+  {
+    "id": "UCP_220",
+    "text": "The Department of Student Affairs organizes and manages all extra\u2011 and co\u2011curricular activities via student societies, collaborating with student leaders and university management to foster skill development outside the classroom. Societies promote education, socialization, entrepreneurship and arts, allowing students to pursue their passions and use their time productively",
+    "source": "departments"
+  },
+  {
+    "id": "UCP_221",
+    "text": "UCP\u2019s Learning Innovation Centre (LIC) focuses on faculty growth and development. Its vision is to become a leading voice for faculty development and support. The centre\u2019s mission is to create an active teaching community that embraces innovative, evidence\u2011based and inclusive pedagogical practices to foster student\u2011centered learning. Core principles include faculty development, innovation, evidence\u2011based practices, inclusivity and student\u2011centered learning",
+    "source": "departments"
+  },
+  {
+    "id": "UCP_222",
+    "text": "The VLE Monitoring Committee ensures that UCP\u2019s Virtual Learning Environment (VLE) meets university and HEC requirements. It evaluates courses and labs for quality assurance, audits LMS content, monitors infrastructure support, suggests remedial measures, ensures credible assessment mechanisms, proposes capacity\u2011building programmes for instructors, collects feedback via vle@ucp.edu.pk and meets weekly to report findings to the Vice Chancellor",
+    "source": "vle"
+  },
+  {
+    "id": "UCP_223",
+    "text": "The VLE Capacity Development initiative provides training for faculty and staff on designing open book exams, conducting online assessments from question design to marking, and using Microsoft Teams. It supports educators in delivering effective online learning",
+    "source": "vle"
+  },
+  {
+    "id": "UCP_224",
+    "text": "The UCP International Office (UCP\u2011IO) coordinates, develops and expands the university\u2019s global engagement. It serves as a liaison with international partners, manages inbound and outbound exchanges, supports international students, and helps identify opportunities for international research and education. Benefits of student exchange programmes include exposure to new cultures, learning styles, languages and personal and professional development",
+    "source": "international_office"
+  },
+  {
+    "id": "UCP_225",
+    "text": "UCP implements the Higher Education Commission\u2019s policy on protection against sexual harassment in higher education institutions. The policy affirms the right of students and staff to live and work in a safe environment free from sexual harassment, defines prohibited conduct, encourages complaints to be lodged with designated resources, provides options for informal and formal resolution, outlines interim measures such as schedule adjustments and counselling, and establishes a three\u2011member inquiry committee to investigate and adjudicate complaints",
+    "source": "harassment_policy"
+  },
+  {
+    "id": "UCP_226",
+    "text": "UCP\u2019s ORIC coordinates a diverse portfolio of R&D projects funded by national and international agencies. Projects include: novel nanotechnology approaches for wastewater treatment, which aim to address environmental and public health challenges and align with SDGs 6, 9 and 13; CanSAT student satellite research that engages students in developing educational satellites and rocketry for applications in agriculture, climate monitoring and space exploration; design of ultra\u2011wide band antenna arrays for space applications; air pollution monitoring of PM2.5 in Lahore in partnership with the University at Albany to investigate smog and its health impacts; and a joint project on spectral process manufacturing analysis technology in intelligent manufacturing between UCP and Shandong University, funded by PSF and NSFC. These projects reflect UCP\u2019s commitment to applied research, industry collaboration and sustainable development",
+    "source": "r&d_projects"
+  },
+  {
+    "id": "UCP_227",
+    "text": "UCP achieved prominent positions in the 2024 UI GreenMetric World University Rankings, placing 4th in Pakistan overall and 2nd among private universities and improving its global ranking from 259 to 206. The university produces 0.5 MW of renewable energy, treats 500 litres of water per day, and operates three reverse\u2011osmosis plants. UCP actively pursues Sustainable Development Goals, focusing on social equality, health, sustainability and economic growth and aims to reduce inequalities, enhance quality of life and build a sustainable future",
+    "source": "sustainability_ranking"
+  },
+  {
+    "id": "UCP_228",
+    "text": "Dr. Muhammad Awais Shafique, Associate Professor of Civil Engineering at UCP, participated as a panelist in a climate change and sustainability conference where he discussed green mobility and sustainable transport systems. He highlighted UCP\u2019s initiatives to address transportation challenges and mitigate environmental impacts",
+    "source": "climate_conference"
+  },
+  {
+    "id": "UCP_229",
+    "text": "The UCP Student Handbook outlines the university\u2019s vision to become internationally acclaimed in teaching and research and its mission to provide quality education and prepare youth with skills for research, employment and entrepreneurship. Core values include discipline, integrity, competence, rule of law, dignity and respect. The handbook\u2019s financial support section lists scholarship categories (merit-based, need-based, PGC scholarships, etc.) and continuation CGPA requirements for each, with up to full tuition based on entry marks. The handbook emphasises support services (social support, career services, library, safety and security) and rules on attendance, credit hours, withdrawal, evaluation systems and grades",
+    "source": "student_handbook"
+  },
+  {
+    "id": "UCP_230",
+    "text": "UCP\u2019s rules and regulations specify admission eligibility (e.g., minimum 45% marks for most undergraduate programmes, 60% for engineering and pharmacy, and 50% for computing; 2.0 CGPA for MS/MPhil and 3.0 CGPA for PhD). They detail credit transfer policies (max 50% credits, minimum grade C+ or B-), registration processes, and refund policies (100% tuition refund in first week, 50% in second week). Attendance rules require at least 75% attendance; students missing more than 25% may be withdrawn. The evaluation system allocates 30\u201340% weight to assignments and quizzes, 20% to midterm exams and 40\u201350% to finals, using a relative grading system on a 4\u2011point scale",
+    "source": "rules_regulations"
+  },
+  {
+    "id": "UCP_231",
+    "text": "UCP\u2019s Virtual Learning Environment (VLE) policy, established during the COVID\u201119 period, creates an online academic council, VLE directorate and monitoring committee. The policy mandates that online courses must be supported by the Learning Management System (LMS) and Microsoft Teams, with course descriptions, objectives, resources, lesson plans, grading policies, key dates and progress reports available on the portal. Departments must provide communication tools and ensure compliance with regulatory bodies",
+    "source": "vle_policy"
+  },
+  {
+    "id": "UCP_232",
+    "text": "The VLE assessment guidelines outline remote assessment strategies: exams may be divided into sections for different student groups; numerical problem parameters should be randomized; students may be required to upload handwritten exams; viva examinations may be conducted after exams; submissions can be accepted via email or WhatsApp in case of technical issues; and adequate time should be provided for students to complete exams",
+    "source": "vle_assessment"
+  },
+  {
+    "id": "UCP_233",
+    "text": "UCP\u2019s VLE portal provides a comprehensive online service for students, teachers and administrators. Student services include grade cards, course registration, timetables, course catalogues, announcements, transcripts, leave status, fee challan printing, feedback, and problem reporting. Teacher services cover term management, student information, course management and outcome\u2011based education reports. Administrative services include team management, attendance management, course management, user management, grading and registration",
+    "source": "vle_portal"
+  },
+  {
+    "id": "UCP_234",
+    "text": "UCP maintains numerous partnerships and collaborations with international universities (e.g., Xi\u2019an International Studies University, Arcada University, Umm al\u2011Qura University, Roslin Institute at the University of Edinburgh, Griffith College), national universities (Islamia University of Bahawalpur, UET, etc.) and corporate organisations (Pakistan Stock Exchange, RCDP, Zong, banks). These collaborations facilitate joint research, exchange programmes, industry seminars and innovative projects",
+    "source": "partnerships"
+  },
+  {
+    "id": "UCP_235",
+    "text": "UCP\u2019s scholarship policy for Fall 2025 lists fifteen scholarship categories including PGC students, alumni scholarships, merit-based scholarships, need-based scholarships, scholarships for specially\u2011abled students, talent-based scholarships, sports-based scholarships, legacy scholarships, scholarships for Gilgit-Baltistan students, educator advancement programmes, scholarships for media and engineering professionals, a post\u2011graduate fellowship programme and scholarships for students who have lost a parent or guardian. It sets scholarship percentages and continuation CGPA requirements for PGC students by faculty, with categories such as 50% or 25% tuition remission; outlines alumni scholarships (50%, 25%, 12.5%) based on previous CGPA; and defines merit scholarships based on intermediate exam marks (e.g., 100%, 75%, 50%, 25%, 12.5% tuition) with continuation CGPA requirements",
+    "source": "scholarship_policy"
+  },
+  {
+    "id": "UCP_236",
+    "text": "Under the Punjab Workers Welfare Fund (PWWF) Scholarship, UCP offers 100% tuition and admission fee waiver to eligible workers\u2019 children. Applicants must apply as regular candidates and then verify eligibility after selection; the worker must have a valid social security card, at least three years of service in a registered factory, and the candidate must provide employment and educational documents. Limited seats are available for LLB and Pharm-D programmes",
+    "source": "pwwf_scholarship"
+  },
+  {
+    "id": "UCP_237",
+    "text": "For detailed information about UCP faculty members and teaching staff, users should consult the university\u2019s official directory. This directory lists the names, positions and profiles of the board of governors, senior administrators and deans across various faculties and departments",
+    "source": "directory"
+  },
+  {
+    "id": "UCP_238",
+    "text": "Current announcements and notices at the University of Central Punjab are posted on the university\u2019s announcement archive page. Users should visit this notices page to view the latest events, news and important updates",
+    "source": "notices"
+  }
+]
