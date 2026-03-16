@@ -110,25 +110,9 @@ Firebase Backend
 
 ---
 
-## 📸 App Screenshots
-
-Add screenshots in the `/screenshots` folder.
-
-Example:
-
-```
-screenshots/
-  home.png
-  map_navigation.png
-  ai_query.png
-  fraud_detection.png
-```
-
----
-
 ## 📥 Download APK
 
-[![Download APK](https://img.shields.io/badge/Download-AskUCP%20APK-blue?style=for-the-badge\&logo=android)](https://github.com/YOUR_USERNAME/askucp/releases/latest/download/askucp.apk)
+[![Download APK](https://img.shields.io/badge/Download-AskUCP%20APK-blue?style=for-the-badge\&logo=android)](https://github.com/Noone9029/ask-ucp/releases/tag/v1.0.0)
 
 ### Frontend
 
