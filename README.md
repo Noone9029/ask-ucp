@@ -19,7 +19,116 @@ Key goals of the project include:
 
 ---
 
-## 🧱 Technology Stack
+## 🧠 Core Technologies
+
+AskUCP combines modern mobile development with AI-powered services and real-time mapping to provide students with an intelligent campus assistant.
+
+### Mobile Application
+
+* **Flutter**
+
+  * Cross-platform UI framework used to build the application from a single codebase.
+* **Dart**
+
+  * Programming language used for all application logic and UI implementation.
+
+### Artificial Intelligence & Data Processing
+
+**Google Cloud Vision**
+
+* Used for image analysis and fraud detection.
+* Allows the application to analyze uploaded images and detect suspicious or manipulated content.
+* Provides machine learning powered optical recognition and classification.
+
+**Retrieval-Augmented Generation (RAG) Model**
+
+* Used to answer campus-related questions.
+* Combines a knowledge database with an AI model to generate accurate responses.
+* Enables students to ask natural language questions about campus resources, policies, and services.
+
+Workflow:
+
+1. User submits a query
+2. Relevant documents are retrieved from the campus knowledge base
+3. The AI model generates a contextual response using retrieved information
+
+### Mapping & Navigation
+
+**OpenStreetMap API**
+
+* Used for the campus navigation system.
+* Provides open-source geospatial data for rendering maps.
+
+**Real-Time Campus Navigation**
+
+* Interactive map interface
+* Allows students to explore buildings and campus locations
+* Enables location-based navigation across the university.
+
+### Backend & Cloud Infrastructure
+
+**Firebase**
+
+* Cloud infrastructure used for backend services.
+
+Services include:
+
+* Cloud Functions for server-side logic
+* Data storage and configuration
+* Backend integration with the mobile app
+
+---
+
+## ⚡ Key Features
+
+* 📱 Cross-platform mobile application built with Flutter
+* 🤖 AI-powered campus question answering using a RAG model
+* 🔍 Fraud detection using Google Cloud Vision
+* 🗺 Real-time campus navigation using OpenStreetMap
+* ☁️ Cloud-powered backend using Firebase
+* 🧩 Modular architecture for scalability and future expansion
+
+---
+
+## 🏗 System Architecture
+
+```
+User
+ │
+ ▼
+Flutter Mobile App
+ │
+ ├── Campus Query → RAG Model → Knowledge Base
+ │
+ ├── Image Upload → Google Cloud Vision → Fraud Detection
+ │
+ └── Map Requests → OpenStreetMap API → Real-time Navigation
+ │
+ ▼
+Firebase Backend
+```
+
+---
+
+## 📸 App Screenshots
+
+Add screenshots in the `/screenshots` folder.
+
+Example:
+
+```
+screenshots/
+  home.png
+  map_navigation.png
+  ai_query.png
+  fraud_detection.png
+```
+
+---
+
+## 📥 Download APK
+
+[![Download APK](https://img.shields.io/badge/Download-AskUCP%20APK-blue?style=for-the-badge\&logo=android)](https://github.com/YOUR_USERNAME/askucp/releases/latest/download/askucp.apk)
 
 ### Frontend
 
