@@ -53,10 +53,10 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBxOUMROT-fmQY4vxegpYQ20YMVq6o86uo',
-    appId: '1:741547269633:android:59dd160473050e75aeea00',
-    messagingSenderId: '741547269633',
-    projectId: 'ask-ucp-43314',
-    storageBucket: 'ask-ucp-43314.firebasestorage.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 }
